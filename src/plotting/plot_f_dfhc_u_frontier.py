@@ -24,17 +24,17 @@ def main() -> None:
             "marker": "x",
             "linestyle": "--",
             "label": "LTT (violating)",
-            "linewidth": 0.65,
-            "markersize": 2.0,
-            "alpha": 0.45,
+            "linewidth": 0.50,
+            "markersize": 1.8,
+            "alpha": 0.28,
         },
         "F-DFHC-U": {
             "marker": "o",
             "linestyle": "-",
             "label": "F-DFHC-U (feasible)",
-            "linewidth": 0.80,
-            "markersize": 2.2,
-            "alpha": 0.70,
+            "linewidth": 0.62,
+            "markersize": 1.9,
+            "alpha": 0.52,
         },
     }
     for method in methods:
@@ -53,6 +53,7 @@ def main() -> None:
                 part["close_positive_precision"],
                 s=42,
                 marker=style["marker"],
+                alpha=0.72,
                 label=style["label"],
             )
         else:
