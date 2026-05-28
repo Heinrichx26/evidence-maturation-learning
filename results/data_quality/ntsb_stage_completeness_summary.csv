@@ -1,0 +1,5 @@
+﻿set,years,event_aircraft_units,final_finding_rate,preliminary_narrative_rate,mature_factual_narrative_rate
+Closed-label benchmark,2008-2025,24272,1.0,0.8456657877389585,0.9981460118655241
+Prospective fitting window,2020-2024,5898,1.0,0.48134961003730076,0.9996609020006781
+Main forward test,2023-2024,2224,1.0,0.3970323741007194,1.0
+Freshness audit,2025-2025,654,1.0,0.04892966360856269,1.0

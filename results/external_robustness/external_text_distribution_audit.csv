@@ -1,0 +1,7 @@
+﻿source,units,years,measured_quantity,result,reference
+FAA ASIAS AIDS,26033,2015--2026,narrative records,26033,FAA c119 narrative field
+FAA ASIAS AIDS,26033,2015--2026,token vocabulary overlap with NTSB preliminary,0.25596102011196353,unique token overlap
+FAA ASIAS AIDS,26033,2015--2026,top-5000 vocabulary overlap,0.4368,frequent-token overlap
+FAA ASIAS AIDS,26033,2015--2026,mean score entropy,0.5715747934306038,NTSB 2023--2024 mean 0.527
+FAA ASIAS AIDS,26033,2015--2026,score entropy KS statistic,0.35231212141645346,NTSB preliminary 2023--2024
+FAA ASIAS AIDS,26033,2015--2026,mean maximum label score,0.5975801210910167,NTSB 2023--2024 mean 0.772

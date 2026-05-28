@@ -1,0 +1,56 @@
+﻿test_year,label,is_late_emerging,close_positive_threshold,close_negative_threshold,standard_threshold
+2023,Aircraft-Aircraft handling/service,False,0.5,0.4,0.25
+2023,Aircraft-Aircraft oper/perf/capability,False,0.5,0.4,0.4
+2023,Aircraft-Aircraft power plant,False,0.5,0.4,0.5
+2023,Aircraft-Aircraft propeller/rotor,False,0.5,0.4,0.45
+2023,Aircraft-Aircraft structures,False,0.5,0.4,0.5
+2023,Aircraft-Aircraft systems,True,0.95,0.2,0.5
+2023,Aircraft-Fluids/misc hardware,True,0.95,0.2,0.5
+2023,Environmental issues-Conditions/weather/phenomena,True,0.95,0.2,0.45
+2023,Environmental issues-Operating environment,False,0.5,0.4,0.3
+2023,Environmental issues-Physical environment,True,0.95,0.2,0.4
+2023,Not determined-Not determined,False,0.5,0.4,0.5
+2023,Organizational issues-Support/oversight/monitoring,False,0.5,0.4,0.25
+2023,Personnel issues-Action/decision,False,0.5,0.4,0.4
+2023,Personnel issues-Experience/knowledge,False,0.5,0.4,0.45
+2023,Personnel issues-Physical,False,0.5,0.4,0.5
+2023,Personnel issues-Psychological,True,0.95,0.2,0.5
+2023,Personnel issues-Task performance,False,0.5,0.4,0.35
+2024,Aircraft-Aircraft handling/service,False,0.5,0.4,0.35
+2024,Aircraft-Aircraft oper/perf/capability,False,0.5,0.4,0.35
+2024,Aircraft-Aircraft power plant,False,0.5,0.4,0.5
+2024,Aircraft-Aircraft propeller/rotor,False,0.5,0.4,0.35
+2024,Aircraft-Aircraft structures,False,0.5,0.4,0.5
+2024,Aircraft-Aircraft systems,True,0.95,0.2,0.5
+2024,Aircraft-Fluids/misc hardware,True,0.95,0.2,0.45
+2024,Environmental issues-Conditions/weather/phenomena,True,0.95,0.2,0.4
+2024,Environmental issues-Operating environment,False,0.5,0.4,0.12
+2024,Environmental issues-Physical environment,True,0.95,0.2,0.4
+2024,Not determined-Not determined,False,0.5,0.4,0.45
+2024,Organizational issues-Development,False,0.5,0.4,0.18
+2024,Organizational issues-Management,False,0.5,0.4,0.25
+2024,Organizational issues-Support/oversight/monitoring,False,0.5,0.4,0.1
+2024,Personnel issues-Action/decision,False,0.5,0.4,0.45
+2024,Personnel issues-Experience/knowledge,False,0.5,0.4,0.5
+2024,Personnel issues-Physical,False,0.5,0.4,0.5
+2024,Personnel issues-Psychological,True,0.95,0.2,0.45
+2024,Personnel issues-Task performance,False,0.5,0.4,0.35
+2025,Aircraft-Aircraft handling/service,False,0.55,0.45,0.12
+2025,Aircraft-Aircraft oper/perf/capability,False,0.55,0.45,0.4
+2025,Aircraft-Aircraft power plant,False,0.55,0.45,0.5
+2025,Aircraft-Aircraft propeller/rotor,False,0.55,0.45,0.5
+2025,Aircraft-Aircraft structures,False,0.55,0.45,0.35
+2025,Aircraft-Aircraft systems,True,0.9,0.2,0.45
+2025,Aircraft-Fluids/misc hardware,True,0.9,0.2,0.5
+2025,Environmental issues-Conditions/weather/phenomena,True,0.9,0.2,0.45
+2025,Environmental issues-Operating environment,False,0.55,0.45,0.5
+2025,Environmental issues-Physical environment,True,0.9,0.2,0.5
+2025,Not determined-Not determined,False,0.55,0.45,0.5
+2025,Organizational issues-Development,False,0.55,0.45,0.35
+2025,Organizational issues-Management,False,0.55,0.45,0.25
+2025,Organizational issues-Support/oversight/monitoring,False,0.55,0.45,0.45
+2025,Personnel issues-Action/decision,False,0.55,0.45,0.4
+2025,Personnel issues-Experience/knowledge,False,0.55,0.45,0.15
+2025,Personnel issues-Physical,False,0.55,0.45,0.45
+2025,Personnel issues-Psychological,True,0.9,0.2,0.45
+2025,Personnel issues-Task performance,False,0.55,0.45,0.3

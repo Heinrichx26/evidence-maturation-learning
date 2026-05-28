@@ -1,0 +1,961 @@
+﻿test_year,stage,label,rank,term,weight
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,1,ev_month_2,2.9683759718304783
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,2,ev_month_6 ev_state_ak,2.8227692692625657
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,3,damage_minr acft_make_boeing,2.5286584095325058
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,4,acft_model_pa_12,2.448544415645092
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,5,acft_model_pa_12 acft_category_air,2.448544415645092
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,6,acft_make_piper acft_model_pa_12,2.448544415645092
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,7,damage_subs acft_make_american_aviation,2.3738989175086016
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,8,ev_state_ia,2.347064399028542
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,9,ev_state_ia ev_country_usa,2.347064399028542
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,10,ev_month_4 ev_state_co,2.3038455929446107
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,11,acft_make_american_aviation,2.2913322672903735
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,12,cert_max_gr_wt_1650 num_eng_1,2.103490022560466
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,13,acft_model_challenger acft_category_air,2.0951010000385817
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,14,ev_month_10 ev_state_nc,2.0815031118643175
+2022,event_aircraft_core,Aircraft-Aircraft handling/service,15,inj_tot_f_2 inj_tot_s_1,2.0731234228174524
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,1,acft_category_gli,1.1893068866420953
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,2,acft_category_ball,0.8412183488798053
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,3,ev_month_8 ev_state_ak,0.7235760914772245
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,4,acft_category_wsft,0.7171257914542593
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,5,ev_state_co,0.7087457699163019
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,6,ev_state_co ev_country_usa,0.7087457699163019
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,7,ev_month_9 ev_state_or,0.7030536568571549
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,8,damage_subs acft_make_air_tractor,0.6891136243920302
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,9,ev_month_10 ev_state_az,0.6787429992157117
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,10,ev_month_2 ev_state_mi,0.672786915021298
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,11,acft_model_172 acft_category_air,0.6695248601433323
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,12,acft_model_172,0.6695248601433323
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,13,acft_make_cessna acft_model_172,0.6695248601433323
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,14,ev_month_4 ev_state_co,0.6571587796724015
+2022,event_aircraft_core,Aircraft-Aircraft oper/perf/capability,15,cert_max_gr_wt_2500 num_eng_1,0.6534483545198605
+2022,event_aircraft_core,Aircraft-Aircraft power plant,1,ev_month_4 ev_state_ks,1.3624361722632863
+2022,event_aircraft_core,Aircraft-Aircraft power plant,2,ev_month_7 ev_state_ca,1.3263210350803827
+2022,event_aircraft_core,Aircraft-Aircraft power plant,3,damage_subs acft_make_beech,1.2964298994077987
+2022,event_aircraft_core,Aircraft-Aircraft power plant,4,ev_month_7 ev_state_tn,1.2609275166868992
+2022,event_aircraft_core,Aircraft-Aircraft power plant,5,acft_make_stinson,1.2564318373109755
+2022,event_aircraft_core,Aircraft-Aircraft power plant,6,ev_month_7 ev_state_la,1.1900616111664477
+2022,event_aircraft_core,Aircraft-Aircraft power plant,7,ev_month_7 ev_state_tx,1.1824255092816682
+2022,event_aircraft_core,Aircraft-Aircraft power plant,8,ev_month_8 ev_state_in,1.174516999602179
+2022,event_aircraft_core,Aircraft-Aircraft power plant,9,acft_category_air,1.1586118330491664
+2022,event_aircraft_core,Aircraft-Aircraft power plant,10,ev_month_4 ev_state_wa,1.1564456007265873
+2022,event_aircraft_core,Aircraft-Aircraft power plant,11,cert_max_gr_wt_3100,1.1315806019088797
+2022,event_aircraft_core,Aircraft-Aircraft power plant,12,cert_max_gr_wt_3100 num_eng_1,1.1315806019088797
+2022,event_aircraft_core,Aircraft-Aircraft power plant,13,ev_month_9 ev_state_az,1.1196625291320828
+2022,event_aircraft_core,Aircraft-Aircraft power plant,14,damage_subs acft_make_lancair,1.1174941203142965
+2022,event_aircraft_core,Aircraft-Aircraft power plant,15,ev_state_ut,1.1154037544036726
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,1,acft_category_heli,5.836129597193954
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,2,ev_month_6 ev_state_mn,3.2102637263421485
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,3,damage_subs acft_make_enstrom,3.112072104787327
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,4,ev_month_8,2.910391500555272
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,5,acft_make_enstrom,2.6687940702790867
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,6,damage_subs acft_make_velocity,2.270616255023004
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,7,acft_model_zodiac_601_xl acft_category_air,2.1835154391454132
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,8,acft_model_zodiac_601_xl,2.1835154391454132
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,9,acft_make_cessna acft_model_172h,2.161720656842047
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,10,acft_model_172h acft_category_air,2.161720656842047
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,11,acft_model_172h,2.161720656842047
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,12,acft_make_velocity,2.1117038737984872
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,13,acft_make_hiller,2.044781512056152
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,14,acft_category_heli cert_max_gr_wt_7000,1.959956122375627
+2022,event_aircraft_core,Aircraft-Aircraft propeller/rotor,15,ev_state_mn,1.9557335972315764
+2022,event_aircraft_core,Aircraft-Aircraft structures,1,ev_month_8 ev_state_id,2.936820986459674
+2022,event_aircraft_core,Aircraft-Aircraft structures,2,acft_model_lancair_evolution acft_category_air,2.4987640670517703
+2022,event_aircraft_core,Aircraft-Aircraft structures,3,acft_model_lancair_evolution,2.4987640670517703
+2022,event_aircraft_core,Aircraft-Aircraft structures,4,ev_state_ok,2.3937381435373077
+2022,event_aircraft_core,Aircraft-Aircraft structures,5,ev_state_ok ev_country_usa,2.3937381435373077
+2022,event_aircraft_core,Aircraft-Aircraft structures,6,acft_category_air cert_max_gr_wt_missing,2.2944149828686378
+2022,event_aircraft_core,Aircraft-Aircraft structures,7,cert_max_gr_wt_missing num_eng_2,2.276490656704902
+2022,event_aircraft_core,Aircraft-Aircraft structures,8,acft_category_air cert_max_gr_wt_1370,2.18837758391987
+2022,event_aircraft_core,Aircraft-Aircraft structures,9,ev_month_9 ev_state_ak,2.063711606633489
+2022,event_aircraft_core,Aircraft-Aircraft structures,10,ev_month_4 ev_state_ma,2.0129906824731925
+2022,event_aircraft_core,Aircraft-Aircraft structures,11,ev_month_11 ev_state_az,1.9597251540789535
+2022,event_aircraft_core,Aircraft-Aircraft structures,12,ev_month_2 ev_state_tx,1.9163605366642995
+2022,event_aircraft_core,Aircraft-Aircraft structures,13,acft_model_zodiac_601_xl acft_category_air,1.8611073655832944
+2022,event_aircraft_core,Aircraft-Aircraft structures,14,acft_model_zodiac_601_xl,1.8611073655832944
+2022,event_aircraft_core,Aircraft-Aircraft structures,15,ev_state_ma,1.8433716469747181
+2022,event_aircraft_core,Aircraft-Aircraft systems,1,acft_make_sikorsky,1.5046961456585222
+2022,event_aircraft_core,Aircraft-Aircraft systems,2,ev_month_10,1.449888292220132
+2022,event_aircraft_core,Aircraft-Aircraft systems,3,num_eng_2 phase_flt_spec_missing,1.258373960921639
+2022,event_aircraft_core,Aircraft-Aircraft systems,4,num_eng_2,1.258373960921639
+2022,event_aircraft_core,Aircraft-Aircraft systems,5,damage_subs acft_make_navion,1.2347215406670515
+2022,event_aircraft_core,Aircraft-Aircraft systems,6,ev_month_4 ev_state_or,1.2228920524870746
+2022,event_aircraft_core,Aircraft-Aircraft systems,7,ev_month_6 ev_state_la,1.2065368067475037
+2022,event_aircraft_core,Aircraft-Aircraft systems,8,ev_month_6 ev_state_az,1.1839903464836736
+2022,event_aircraft_core,Aircraft-Aircraft systems,9,acft_category_gli cert_max_gr_wt_missing,1.1810884726619317
+2022,event_aircraft_core,Aircraft-Aircraft systems,10,inj_tot_s_3,1.1718871281580703
+2022,event_aircraft_core,Aircraft-Aircraft systems,11,acft_make_dassault_aviation,1.1361923638108862
+2022,event_aircraft_core,Aircraft-Aircraft systems,12,acft_model_rv8,1.1141246185700908
+2022,event_aircraft_core,Aircraft-Aircraft systems,13,acft_make_vans acft_model_rv8,1.1141246185700908
+2022,event_aircraft_core,Aircraft-Aircraft systems,14,acft_model_rv8 acft_category_air,1.1141246185700908
+2022,event_aircraft_core,Aircraft-Aircraft systems,15,ev_month_5 ev_state_ky,1.1114252607070003
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,1,damage_subs acft_make_piper,2.12859309996395
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,2,ev_month_9 ev_state_ga,1.5892440986107759
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,3,damage_subs acft_make_beech,1.536903180049276
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,4,acft_make_piper,1.4779431092314554
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,5,ev_month_2 ev_state_id,1.4129754254227098
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,6,ev_month_5 ev_state_az,1.371211996579504
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,7,acft_make_rockwell acft_model_500,1.359390837165437
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,8,ev_month_10,1.3416586130889774
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,9,ev_month_3 ev_state_or,1.2743082614617132
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,10,acft_model_177rg,1.263805633108081
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,11,acft_model_177rg acft_category_air,1.263805633108081
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,12,acft_make_cessna acft_model_177rg,1.263805633108081
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,13,acft_category_air cert_max_gr_wt_1600,1.2513812169395881
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,14,acft_category_air cert_max_gr_wt_missing,1.2443528145405838
+2022,event_aircraft_core,Aircraft-Fluids/misc hardware,15,acft_category_heli cert_max_gr_wt_1750,1.225511299481713
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,1,inj_tot_s_1 damage_missing,2.0901980630192285
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,2,damage_missing,1.4507176258720482
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,3,damage_dest acft_make_piper,1.2750410615088121
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,4,ev_month_3,1.2010245042246408
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,5,ev_month_9 ev_state_ak,1.1298877469652167
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,6,ev_month_12,1.0700019346132357
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,7,ev_month_8 ev_state_mn,1.029470262868872
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,8,ev_month_5,1.007875152007615
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,9,ev_month_11 ev_state_nc,0.9971303830396224
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,10,ev_month_7 ev_state_fl,0.9602286808691102
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,11,acft_category_ball,0.948388230413651
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,12,acft_category_heli cert_max_gr_wt_missing,0.9454390044680697
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,13,acft_model_bearhawk acft_category_air,0.94223322235682
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,14,acft_model_bearhawk,0.94223322235682
+2022,event_aircraft_core,Environmental issues-Conditions/weather/phenomena,15,ev_month_9 ev_state_ca,0.9388283062206972
+2022,event_aircraft_core,Environmental issues-Operating environment,1,ev_month_11 ev_state_ga,4.191263195155604
+2022,event_aircraft_core,Environmental issues-Operating environment,2,acft_make_dassault_aviation,3.0518957267549047
+2022,event_aircraft_core,Environmental issues-Operating environment,3,ev_month_7 ev_state_wi,2.943099755714454
+2022,event_aircraft_core,Environmental issues-Operating environment,4,acft_make_sikorsky,2.918052444401281
+2022,event_aircraft_core,Environmental issues-Operating environment,5,acft_model_180k acft_category_air,2.8876375883960366
+2022,event_aircraft_core,Environmental issues-Operating environment,6,acft_make_cessna acft_model_180k,2.8876375883960366
+2022,event_aircraft_core,Environmental issues-Operating environment,7,acft_model_180k,2.8876375883960366
+2022,event_aircraft_core,Environmental issues-Operating environment,8,ev_month_3 ev_state_fl,2.6141346667340515
+2022,event_aircraft_core,Environmental issues-Operating environment,9,acft_model_pa46_500tp,2.53976057185889
+2022,event_aircraft_core,Environmental issues-Operating environment,10,acft_make_piper acft_model_pa46_500tp,2.53976057185889
+2022,event_aircraft_core,Environmental issues-Operating environment,11,acft_model_pa46_500tp acft_category_air,2.53976057185889
+2022,event_aircraft_core,Environmental issues-Operating environment,12,ev_state_ga ev_country_usa,2.342953503938091
+2022,event_aircraft_core,Environmental issues-Operating environment,13,ev_state_ga,2.342953503938091
+2022,event_aircraft_core,Environmental issues-Operating environment,14,num_eng_0,2.339891970932485
+2022,event_aircraft_core,Environmental issues-Operating environment,15,num_eng_0 phase_flt_spec_missing,2.339891970932485
+2022,event_aircraft_core,Environmental issues-Physical environment,1,ev_month_1,1.3748210444107698
+2022,event_aircraft_core,Environmental issues-Physical environment,2,ev_month_7 ev_state_ak,1.2837949322424802
+2022,event_aircraft_core,Environmental issues-Physical environment,3,ev_state_ak ev_country_usa,1.2135509856750413
+2022,event_aircraft_core,Environmental issues-Physical environment,4,ev_state_ak,1.2135509856750413
+2022,event_aircraft_core,Environmental issues-Physical environment,5,acft_make_north_american,1.1058635769402798
+2022,event_aircraft_core,Environmental issues-Physical environment,6,acft_make_textron_aviation_inc,1.102336885568325
+2022,event_aircraft_core,Environmental issues-Physical environment,7,ev_month_9 ev_state_il,1.0613584113837218
+2022,event_aircraft_core,Environmental issues-Physical environment,8,ev_month_10 ev_state_ma,0.9897146394255433
+2022,event_aircraft_core,Environmental issues-Physical environment,9,acft_category_heli,0.9872326406425173
+2022,event_aircraft_core,Environmental issues-Physical environment,10,acft_make_air_tractor,0.9807881391594062
+2022,event_aircraft_core,Environmental issues-Physical environment,11,ev_month_2 ev_state_mn,0.9787158309217127
+2022,event_aircraft_core,Environmental issues-Physical environment,12,damage_subs acft_make_maule,0.9698969952363767
+2022,event_aircraft_core,Environmental issues-Physical environment,13,ev_month_6 ev_state_or,0.9315163615826989
+2022,event_aircraft_core,Environmental issues-Physical environment,14,ev_month_3 ev_state_ak,0.9270431536603044
+2022,event_aircraft_core,Environmental issues-Physical environment,15,acft_make_vans_aircraft_inc,0.9124982315640501
+2022,event_aircraft_core,Not determined-Not determined,1,inj_tot_s_0 damage_dest,2.050570333155682
+2022,event_aircraft_core,Not determined-Not determined,2,damage_dest,1.9624987202741928
+2022,event_aircraft_core,Not determined-Not determined,3,ev_month_9 ev_state_co,1.8372466901820566
+2022,event_aircraft_core,Not determined-Not determined,4,ev_month_8 ev_state_il,1.588976727376214
+2022,event_aircraft_core,Not determined-Not determined,5,ev_month_5 ev_state_ky,1.5034561605081866
+2022,event_aircraft_core,Not determined-Not determined,6,ev_month_8 ev_state_nc,1.4775072538865572
+2022,event_aircraft_core,Not determined-Not determined,7,ev_month_12 ev_state_ak,1.4567365775095624
+2022,event_aircraft_core,Not determined-Not determined,8,ev_month_10 ev_state_ak,1.421426827077476
+2022,event_aircraft_core,Not determined-Not determined,9,acft_model_j250_sp acft_category_air,1.4048160744070297
+2022,event_aircraft_core,Not determined-Not determined,10,acft_model_j250_sp,1.4048160744070297
+2022,event_aircraft_core,Not determined-Not determined,11,cert_max_gr_wt_2600 num_eng_1,1.3941135038167602
+2022,event_aircraft_core,Not determined-Not determined,12,ev_month_10,1.3526234243594937
+2022,event_aircraft_core,Not determined-Not determined,13,cert_max_gr_wt_2600,1.3008614438533503
+2022,event_aircraft_core,Not determined-Not determined,14,ev_month_4 ev_state_fl,1.278501101494658
+2022,event_aircraft_core,Not determined-Not determined,15,ev_month_9 ev_state_ca,1.2685897554973582
+2022,event_aircraft_core,Personnel issues-Action/decision,1,ev_month_7 ev_state_wa,1.3478622690558602
+2022,event_aircraft_core,Personnel issues-Action/decision,2,ev_month_12,1.2225087851823182
+2022,event_aircraft_core,Personnel issues-Action/decision,3,acft_category_heli cert_max_gr_wt_missing,1.1151932853861868
+2022,event_aircraft_core,Personnel issues-Action/decision,4,ev_month_3 ev_state_mt,0.956167507706584
+2022,event_aircraft_core,Personnel issues-Action/decision,5,ev_month_8 ev_state_tn,0.9351125383415788
+2022,event_aircraft_core,Personnel issues-Action/decision,6,ev_state_id,0.925286036445636
+2022,event_aircraft_core,Personnel issues-Action/decision,7,ev_state_id ev_country_usa,0.925286036445636
+2022,event_aircraft_core,Personnel issues-Action/decision,8,ev_month_9 ev_state_wi,0.9206985626258632
+2022,event_aircraft_core,Personnel issues-Action/decision,9,ev_month_12 ev_state_tx,0.9087193989539105
+2022,event_aircraft_core,Personnel issues-Action/decision,10,ev_month_9 ev_state_nc,0.8667915044413629
+2022,event_aircraft_core,Personnel issues-Action/decision,11,ev_state_ok ev_country_usa,0.866205788173156
+2022,event_aircraft_core,Personnel issues-Action/decision,12,ev_state_ok,0.866205788173156
+2022,event_aircraft_core,Personnel issues-Action/decision,13,ev_month_9 ev_state_wa,0.8474880460710393
+2022,event_aircraft_core,Personnel issues-Action/decision,14,ev_state_tn,0.8473709039649582
+2022,event_aircraft_core,Personnel issues-Action/decision,15,ev_state_tn ev_country_usa,0.8473709039649582
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,1,damage_dest acft_make_piper,3.059497734368015
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,2,ev_month_4,2.6193596412642766
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,3,ev_month_6 ev_state_nc,2.5496421757568677
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,4,ev_month_11 ev_state_ga,2.4018224556613363
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,5,ev_month_3 ev_state_la,2.207779028560096
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,6,ev_month_12 ev_state_fl,2.0909833901038017
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,7,ev_month_8 ev_state_tx,2.0610456153410444
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,8,ev_month_9 ev_state_ma,2.0374386788142465
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,9,num_eng_3,2.0060172693106466
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,10,num_eng_3 phase_flt_spec_missing,2.0060172693106466
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,11,ev_month_8 ev_state_fl,2.000987840675714
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,12,ev_state_nd,1.974258887172033
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,13,ev_state_nd ev_country_usa,1.974258887172033
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,14,ev_country_usa ev_highest_injury_fatl,1.9211155507719795
+2022,event_aircraft_core,Personnel issues-Experience/knowledge,15,ev_highest_injury_fatl,1.9211155507719795
+2022,event_aircraft_core,Personnel issues-Physical,1,ev_month_8 ev_state_pa,2.832124322478434
+2022,event_aircraft_core,Personnel issues-Physical,2,inj_tot_f_1 inj_tot_s_0,2.637319125010202
+2022,event_aircraft_core,Personnel issues-Physical,3,ev_state_wy,2.5648734594347964
+2022,event_aircraft_core,Personnel issues-Physical,4,ev_state_wy ev_country_usa,2.5648734594347964
+2022,event_aircraft_core,Personnel issues-Physical,5,ev_country_usa ev_highest_injury_fatl,2.413450466417596
+2022,event_aircraft_core,Personnel issues-Physical,6,ev_highest_injury_fatl,2.413450466417596
+2022,event_aircraft_core,Personnel issues-Physical,7,acft_category_air cert_max_gr_wt_2300,2.2716993226219864
+2022,event_aircraft_core,Personnel issues-Physical,8,damage_subs acft_make_ayres_corporation,2.261477869427864
+2022,event_aircraft_core,Personnel issues-Physical,9,cert_max_gr_wt_2300 num_eng_1,2.2274441894578043
+2022,event_aircraft_core,Personnel issues-Physical,10,cert_max_gr_wt_2300,2.204070310117873
+2022,event_aircraft_core,Personnel issues-Physical,11,ev_month_7 ev_state_md,2.194546272434657
+2022,event_aircraft_core,Personnel issues-Physical,12,ev_month_6 ev_state_ks,2.1521542798539586
+2022,event_aircraft_core,Personnel issues-Physical,13,acft_make_ayres_corporation,2.134396985565618
+2022,event_aircraft_core,Personnel issues-Physical,14,acft_make_cessna acft_model_172r,1.9507860940243125
+2022,event_aircraft_core,Personnel issues-Physical,15,acft_model_172r,1.9507860940243125
+2022,event_aircraft_core,Personnel issues-Psychological,1,ev_month_7 ev_state_ak,2.2151588779927374
+2022,event_aircraft_core,Personnel issues-Psychological,2,inj_tot_s_0 damage_dest,1.8650287654243778
+2022,event_aircraft_core,Personnel issues-Psychological,3,acft_category_heli,1.6547348858357172
+2022,event_aircraft_core,Personnel issues-Psychological,4,ev_month_1 ev_state_fl,1.5859061404867443
+2022,event_aircraft_core,Personnel issues-Psychological,5,ev_month_7 ev_state_wi,1.4676622269990154
+2022,event_aircraft_core,Personnel issues-Psychological,6,inj_tot_s_2 damage_subs,1.4664886276043307
+2022,event_aircraft_core,Personnel issues-Psychological,7,ev_state_az ev_country_usa,1.443799829504184
+2022,event_aircraft_core,Personnel issues-Psychological,8,ev_state_az,1.443799829504184
+2022,event_aircraft_core,Personnel issues-Psychological,9,damage_subs acft_make_bell,1.4404761559759562
+2022,event_aircraft_core,Personnel issues-Psychological,10,acft_make_bell,1.2839552267697398
+2022,event_aircraft_core,Personnel issues-Psychological,11,inj_tot_s_0 damage_minr,1.272741774183737
+2022,event_aircraft_core,Personnel issues-Psychological,12,acft_make_robinson_helicopter,1.2626469217084846
+2022,event_aircraft_core,Personnel issues-Psychological,13,damage_dest acft_make_piper,1.2278112037202054
+2022,event_aircraft_core,Personnel issues-Psychological,14,ev_month_9 ev_state_or,1.2275590844483366
+2022,event_aircraft_core,Personnel issues-Psychological,15,ev_month_8 ev_state_or,1.1961755035535626
+2022,event_aircraft_core,Personnel issues-Task performance,1,ev_month_6,1.029570313965851
+2022,event_aircraft_core,Personnel issues-Task performance,2,acft_category_ball,1.0095680136075447
+2022,event_aircraft_core,Personnel issues-Task performance,3,damage_subs,0.839678758901856
+2022,event_aircraft_core,Personnel issues-Task performance,4,ev_month_3,0.8321593141325175
+2022,event_aircraft_core,Personnel issues-Task performance,5,ev_month_5 ev_state_nv,0.8118590675945987
+2022,event_aircraft_core,Personnel issues-Task performance,6,ev_month_5,0.7663881476190451
+2022,event_aircraft_core,Personnel issues-Task performance,7,acft_make_cessna acft_model_a185,0.7662830500941857
+2022,event_aircraft_core,Personnel issues-Task performance,8,acft_model_a185 acft_category_air,0.7662830500941857
+2022,event_aircraft_core,Personnel issues-Task performance,9,acft_model_a185,0.7662830500941857
+2022,event_aircraft_core,Personnel issues-Task performance,10,ev_month_4 ev_state_az,0.7632400498111362
+2022,event_aircraft_core,Personnel issues-Task performance,11,ev_month_6 ev_state_fl,0.7547110841961325
+2022,event_aircraft_core,Personnel issues-Task performance,12,acft_category_wsft,0.7462366383063744
+2022,event_aircraft_core,Personnel issues-Task performance,13,inj_tot_s_0 damage_subs,0.7359368252013007
+2022,event_aircraft_core,Personnel issues-Task performance,14,cert_max_gr_wt_2000,0.727334413896302
+2022,event_aircraft_core,Personnel issues-Task performance,15,ev_month_7 ev_state_id,0.7204316837437311
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,1,wx_temp_25,2.7799308867481334
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,2,gust_kts_14,2.322172597441908
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,3,wx_temp_66 wx_dew_pt_46,2.087629336451696
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,4,wind_dir_deg_310 wind_vel_kts_6,1.9698550255118519
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,5,acft_model_challenger acft_category_air,1.9489208821766095
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,6,acft_make_quad_city,1.9225418095080453
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,7,acft_make_quad_city acft_model_challenger,1.9225418095080453
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,8,damage_subs acft_make_quad_city,1.9225418095080453
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,9,ev_month_2,1.8856868569325942
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,10,wx_dew_pt_66,1.8731345767201397
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,11,acft_model_challenger,1.8697375947688877
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,12,wx_dew_pt_37 wind_dir_deg_210,1.853100234028066
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,13,wx_temp_55 wx_dew_pt_28,1.764786878677192
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,14,wx_temp_91 wx_dew_pt_73,1.7611770434285585
+2022,event_aircraft_weather,Aircraft-Aircraft handling/service,15,wind_dir_deg_340 wind_vel_kts_8,1.7510826893703975
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,1,light_cond_dayl sky_cond_nonceil_cler,1.1739589511148616
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,2,acft_category_gli,1.0836003473643718
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,3,acft_model_172,0.9340792142347896
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,4,acft_make_cessna acft_model_172,0.9340792142347896
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,5,acft_model_172 acft_category_air,0.9340792142347896
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,6,wind_dir_deg_240,0.9277219916689138
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,7,wx_dew_pt_59,0.9062650115112225
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,8,wind_dir_deg_290,0.8852333523224114
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,9,wind_vel_kts_14,0.8830200019702731
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,10,wx_dew_pt_0,0.8768080145963103
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,11,wx_temp_90,0.8668671765873053
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,12,vis_sm_10_0 wx_temp_64,0.8147175496457368
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,13,wx_temp_54,0.7785027879108641
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,14,altimeter_29_989999771118164 wx_cond_basic_vmc,0.7646913894410418
+2022,event_aircraft_weather,Aircraft-Aircraft oper/perf/capability,15,sky_cond_ceil_bkn vis_sm_10_0,0.6870292066877866
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,1,wx_dew_pt_36,1.4321745617579884
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,2,wx_dew_pt_77 wind_dir_deg_240,1.1987138060822498
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,3,inj_tot_s_0 damage_minr,1.1728156317141554
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,4,damage_subs acft_make_beech,1.157912944558921
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,5,wx_temp_61 wx_dew_pt_37,1.1535012250623151
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,6,cert_max_gr_wt_3100,1.1135587135139742
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,7,cert_max_gr_wt_3100 num_eng_1,1.1135587135139742
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,8,damage_minr,1.110943256069318
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,9,ev_state_ut ev_country_usa,1.1052792461426026
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,10,ev_state_ut,1.1052792461426026
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,11,ev_month_7 ev_state_ca,1.0954250683188451
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,12,acft_make_stinson,1.0840392381551283
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,13,ev_country_usa ev_highest_injury_minr,1.0806049771298911
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,14,wind_dir_deg_240 wind_vel_kts_10,1.0742720117476379
+2022,event_aircraft_weather,Aircraft-Aircraft power plant,15,ev_highest_injury_minr,1.0687630662892396
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,1,acft_category_heli,5.921575587627508
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,2,ev_month_8,2.559378980480484
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,3,damage_subs acft_make_enstrom,2.4690800787140965
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,4,acft_make_enstrom,2.1758268952141306
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,5,wind_dir_deg_50,2.0751257592790413
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,6,vis_sm_7_0 wx_temp_73,1.9777542433397395
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,7,acft_model_172h,1.735289060520962
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,8,acft_make_cessna acft_model_172h,1.735289060520962
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,9,acft_model_172h acft_category_air,1.735289060520962
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,10,acft_make_hiller,1.7327343427627975
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,11,vis_sm_10_0 wx_temp_81,1.6970910893698483
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,12,wind_dir_deg_240,1.6749316860562655
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,13,acft_category_heli cert_max_gr_wt_7000,1.6479955715998096
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,14,wind_dir_deg_250 wind_vel_kts_5,1.644888472010253
+2022,event_aircraft_weather,Aircraft-Aircraft propeller/rotor,15,altimeter_30_18000030517578 wx_cond_basic_vmc,1.6187849689205918
+2022,event_aircraft_weather,Aircraft-Aircraft structures,1,wind_dir_deg_240,2.3271989049141464
+2022,event_aircraft_weather,Aircraft-Aircraft structures,2,wx_dew_pt_72 wind_dir_deg_0,2.0786948068813915
+2022,event_aircraft_weather,Aircraft-Aircraft structures,3,wx_dew_pt_72,1.964774272290828
+2022,event_aircraft_weather,Aircraft-Aircraft structures,4,acft_model_lancair_evolution,1.9589691172551411
+2022,event_aircraft_weather,Aircraft-Aircraft structures,5,acft_model_lancair_evolution acft_category_air,1.9589691172551411
+2022,event_aircraft_weather,Aircraft-Aircraft structures,6,acft_category_air cert_max_gr_wt_missing,1.9102574380555246
+2022,event_aircraft_weather,Aircraft-Aircraft structures,7,ev_state_ok ev_country_usa,1.9093032751589734
+2022,event_aircraft_weather,Aircraft-Aircraft structures,8,ev_state_ok,1.9093032751589734
+2022,event_aircraft_weather,Aircraft-Aircraft structures,9,wind_dir_deg_50 wind_vel_kts_7,1.8993508910172914
+2022,event_aircraft_weather,Aircraft-Aircraft structures,10,wx_temp_79 wx_dew_pt_64,1.7801631018632924
+2022,event_aircraft_weather,Aircraft-Aircraft structures,11,wx_temp_82 wx_dew_pt_37,1.7572646699727383
+2022,event_aircraft_weather,Aircraft-Aircraft structures,12,wx_dew_pt_54 wind_dir_deg_180,1.7025386385329169
+2022,event_aircraft_weather,Aircraft-Aircraft structures,13,ev_month_8 ev_state_id,1.6075997967351758
+2022,event_aircraft_weather,Aircraft-Aircraft structures,14,cert_max_gr_wt_missing,1.5485523256011875
+2022,event_aircraft_weather,Aircraft-Aircraft structures,15,acft_category_air cert_max_gr_wt_1370,1.5184588526182126
+2022,event_aircraft_weather,Aircraft-Aircraft systems,1,num_eng_2,1.682371435801845
+2022,event_aircraft_weather,Aircraft-Aircraft systems,2,num_eng_2 phase_flt_spec_missing,1.682371435801845
+2022,event_aircraft_weather,Aircraft-Aircraft systems,3,ev_month_10,1.4461967205840844
+2022,event_aircraft_weather,Aircraft-Aircraft systems,4,wx_dew_pt_75,1.0678477009569722
+2022,event_aircraft_weather,Aircraft-Aircraft systems,5,wind_dir_deg_190,1.029217856502272
+2022,event_aircraft_weather,Aircraft-Aircraft systems,6,wx_dew_pt_52 wind_dir_deg_190,1.0184982075222972
+2022,event_aircraft_weather,Aircraft-Aircraft systems,7,wx_temp_68 wx_dew_pt_43,1.0108172461258886
+2022,event_aircraft_weather,Aircraft-Aircraft systems,8,sky_cond_ceil_none vis_sm_8_0,0.9969076675825108
+2022,event_aircraft_weather,Aircraft-Aircraft systems,9,wx_temp_72 wx_dew_pt_54,0.9788342736597544
+2022,event_aircraft_weather,Aircraft-Aircraft systems,10,inj_tot_s_3,0.9728818754684558
+2022,event_aircraft_weather,Aircraft-Aircraft systems,11,ev_state_sc ev_country_usa,0.9680740890509524
+2022,event_aircraft_weather,Aircraft-Aircraft systems,12,ev_state_sc,0.9680740890509524
+2022,event_aircraft_weather,Aircraft-Aircraft systems,13,wx_dew_pt_64,0.9591453353504809
+2022,event_aircraft_weather,Aircraft-Aircraft systems,14,acft_model_210 acft_category_air,0.9584609763657996
+2022,event_aircraft_weather,Aircraft-Aircraft systems,15,acft_make_cessna acft_model_210,0.9584609763657996
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,1,damage_subs acft_make_piper,1.8162915842563077
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,2,ev_month_10,1.5164441323603937
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,3,wx_dew_pt_46,1.4805184573559504
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,4,acft_category_air cert_max_gr_wt_missing,1.4201918517256298
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,5,acft_make_piper,1.332882763637454
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,6,damage_subs acft_make_beech,1.310821989317295
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,7,light_cond_ndrk sky_cond_nonceil_cler,1.309046244921206
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,8,wind_dir_deg_40 wind_vel_kts_9,1.2333717575703036
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,9,gust_kts_0 altimeter_29_8700008392334,1.188675768238368
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,10,vis_sm_10_0 wx_temp_52,1.1560871661415257
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,11,acft_make_rockwell acft_model_500,1.151098131528384
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,12,wx_dew_pt_75 wind_dir_deg_220,1.1418828366029852
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,13,acft_category_air cert_max_gr_wt_1600,1.1324037645811722
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,14,acft_model_pa31 acft_category_air,1.127593449873552
+2022,event_aircraft_weather,Aircraft-Fluids/misc hardware,15,acft_make_piper acft_model_pa31,1.127593449873552
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,1,wx_cond_basic_imc,3.9024768680621897
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,2,inj_tot_s_1 damage_missing,1.7399259532657432
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,3,gust_kts_17,1.5947264523169047
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,4,sky_cond_ceil_ovc,1.5106538662226396
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,5,phase_flt_spec_missing light_cond_nite,1.465322408695197
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,6,light_cond_nite,1.465322408695197
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,7,damage_missing,1.350381399849749
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,8,gust_kts_18,1.3187401053702474
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,9,gust_kts_25,1.2204246447854603
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,10,sky_cond_nonceil_missing sky_cond_ceil_ovc,1.1606731029274813
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,11,vis_sm_5_0,1.1283020705176026
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,12,ev_month_3,1.1145698499918133
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,13,light_cond_nite sky_cond_nonceil_missing,1.05666849409466
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,14,gust_kts_15,1.0525977758292866
+2022,event_aircraft_weather,Environmental issues-Conditions/weather/phenomena,15,acft_category_ball,1.034571863783141
+2022,event_aircraft_weather,Environmental issues-Operating environment,1,phase_flt_spec_missing light_cond_nite,2.4984059528928793
+2022,event_aircraft_weather,Environmental issues-Operating environment,2,light_cond_nite,2.4984059528928793
+2022,event_aircraft_weather,Environmental issues-Operating environment,3,wx_dew_pt_72,2.2575792798678194
+2022,event_aircraft_weather,Environmental issues-Operating environment,4,vis_sm_9_0 wx_temp_84,2.110400723215126
+2022,event_aircraft_weather,Environmental issues-Operating environment,5,wx_temp_84 wx_dew_pt_72,1.985169224974268
+2022,event_aircraft_weather,Environmental issues-Operating environment,6,acft_make_dassault_aviation,1.9458801214679071
+2022,event_aircraft_weather,Environmental issues-Operating environment,7,wind_dir_deg_190 wind_vel_kts_6,1.9358155874716725
+2022,event_aircraft_weather,Environmental issues-Operating environment,8,wind_dir_deg_190,1.9136721129199037
+2022,event_aircraft_weather,Environmental issues-Operating environment,9,acft_make_sikorsky,1.9021160331620184
+2022,event_aircraft_weather,Environmental issues-Operating environment,10,wx_temp_46,1.8956920332527538
+2022,event_aircraft_weather,Environmental issues-Operating environment,11,wx_dew_pt_72 wind_dir_deg_190,1.847795262319618
+2022,event_aircraft_weather,Environmental issues-Operating environment,12,acft_model_180k,1.8468501090741611
+2022,event_aircraft_weather,Environmental issues-Operating environment,13,acft_model_180k acft_category_air,1.8468501090741611
+2022,event_aircraft_weather,Environmental issues-Operating environment,14,acft_make_cessna acft_model_180k,1.8468501090741611
+2022,event_aircraft_weather,Environmental issues-Operating environment,15,light_cond_nite sky_cond_nonceil_cler,1.8297148332581363
+2022,event_aircraft_weather,Environmental issues-Physical environment,1,wx_dew_pt_30,1.3950125853683255
+2022,event_aircraft_weather,Environmental issues-Physical environment,2,ev_state_ak ev_country_usa,1.2776612756376213
+2022,event_aircraft_weather,Environmental issues-Physical environment,3,ev_state_ak,1.2776612756376213
+2022,event_aircraft_weather,Environmental issues-Physical environment,4,ev_month_7 ev_state_ak,1.2714806905012856
+2022,event_aircraft_weather,Environmental issues-Physical environment,5,wx_dew_pt_1,1.259459922105082
+2022,event_aircraft_weather,Environmental issues-Physical environment,6,ev_month_1,1.1100101680676369
+2022,event_aircraft_weather,Environmental issues-Physical environment,7,wx_dew_pt_30 wind_dir_deg_0,1.0749664156103202
+2022,event_aircraft_weather,Environmental issues-Physical environment,8,wind_dir_deg_360 wind_vel_kts_3,1.0400917041686348
+2022,event_aircraft_weather,Environmental issues-Physical environment,9,wind_dir_deg_200 wind_vel_kts_3,1.036949899928586
+2022,event_aircraft_weather,Environmental issues-Physical environment,10,acft_category_heli,1.0054937425737172
+2022,event_aircraft_weather,Environmental issues-Physical environment,11,vis_sm_10_0 wx_temp_54,0.978776360275183
+2022,event_aircraft_weather,Environmental issues-Physical environment,12,acft_make_air_tractor,0.9315641255903514
+2022,event_aircraft_weather,Environmental issues-Physical environment,13,damage_subs acft_make_maule,0.9184594080491564
+2022,event_aircraft_weather,Environmental issues-Physical environment,14,wx_dew_pt_41,0.9052813171327287
+2022,event_aircraft_weather,Environmental issues-Physical environment,15,wind_vel_kts_15,0.8850944905798681
+2022,event_aircraft_weather,Not determined-Not determined,1,inj_tot_s_0 damage_dest,2.171532688239532
+2022,event_aircraft_weather,Not determined-Not determined,2,damage_dest,2.052560155567958
+2022,event_aircraft_weather,Not determined-Not determined,3,wx_temp_81 wx_dew_pt_64,1.6902413320863956
+2022,event_aircraft_weather,Not determined-Not determined,4,gust_kts_0 altimeter_30_1200008392334,1.4487798378262113
+2022,event_aircraft_weather,Not determined-Not determined,5,wind_dir_deg_350 wind_vel_kts_5,1.391318308657381
+2022,event_aircraft_weather,Not determined-Not determined,6,wind_dir_deg_80 wind_vel_kts_6,1.300592548053851
+2022,event_aircraft_weather,Not determined-Not determined,7,vis_sm_10_0 wx_temp_91,1.2820268622898792
+2022,event_aircraft_weather,Not determined-Not determined,8,wx_dew_pt_14 wind_dir_deg_0,1.2691209188599206
+2022,event_aircraft_weather,Not determined-Not determined,9,cert_max_gr_wt_2600 num_eng_1,1.2669804974491115
+2022,event_aircraft_weather,Not determined-Not determined,10,wind_dir_deg_0 wind_vel_kts_4,1.2596484092155797
+2022,event_aircraft_weather,Not determined-Not determined,11,wx_dew_pt_39 wind_dir_deg_330,1.2538872822472302
+2022,event_aircraft_weather,Not determined-Not determined,12,wx_temp_88 wx_dew_pt_59,1.2060643076693969
+2022,event_aircraft_weather,Not determined-Not determined,13,acft_make_cessna acft_model_210,1.2045749851314789
+2022,event_aircraft_weather,Not determined-Not determined,14,acft_model_210,1.2045749851314789
+2022,event_aircraft_weather,Not determined-Not determined,15,acft_model_210 acft_category_air,1.2045749851314789
+2022,event_aircraft_weather,Personnel issues-Action/decision,1,wx_cond_basic_imc,1.6426276600570326
+2022,event_aircraft_weather,Personnel issues-Action/decision,2,ev_month_7 ev_state_wa,1.1262523659267274
+2022,event_aircraft_weather,Personnel issues-Action/decision,3,light_cond_nite sky_cond_nonceil_missing,0.9648902876072897
+2022,event_aircraft_weather,Personnel issues-Action/decision,4,ev_month_12,0.9647204902909229
+2022,event_aircraft_weather,Personnel issues-Action/decision,5,wind_dir_deg_230,0.9245804165633473
+2022,event_aircraft_weather,Personnel issues-Action/decision,6,ev_state_id,0.9237215390938454
+2022,event_aircraft_weather,Personnel issues-Action/decision,7,ev_state_id ev_country_usa,0.9237215390938454
+2022,event_aircraft_weather,Personnel issues-Action/decision,8,vis_sm_10_0 wx_temp_86,0.9210266335231551
+2022,event_aircraft_weather,Personnel issues-Action/decision,9,sky_cond_nonceil_missing,0.9129207405114846
+2022,event_aircraft_weather,Personnel issues-Action/decision,10,ev_state_ok ev_country_usa,0.872054743619235
+2022,event_aircraft_weather,Personnel issues-Action/decision,11,ev_state_ok,0.872054743619235
+2022,event_aircraft_weather,Personnel issues-Action/decision,12,acft_category_heli cert_max_gr_wt_missing,0.8053629154144534
+2022,event_aircraft_weather,Personnel issues-Action/decision,13,vis_sm_5_0,0.8048256189207358
+2022,event_aircraft_weather,Personnel issues-Action/decision,14,sky_cond_nonceil_cler sky_cond_ceil_bkn,0.8022394128418227
+2022,event_aircraft_weather,Personnel issues-Action/decision,15,ev_month_12 ev_state_tx,0.7865359157213136
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,1,wx_cond_basic_imc,3.043046855641311
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,2,sky_cond_ceil_ovc,2.182719197548421
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,3,gust_kts_0 altimeter_29_989999771118164,2.1281370099468906
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,4,altimeter_29_989999771118164,2.0830218515412
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,5,wind_dir_deg_210 wind_vel_kts_8,2.0368678524929313
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,6,cert_max_gr_wt_missing,1.9997504671395199
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,7,sky_cond_nonceil_cler sky_cond_ceil_ovc,1.981546699399388
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,8,ev_month_4,1.9555946756224256
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,9,num_eng_missing phase_flt_spec_missing,1.8634685642459285
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,10,num_eng_missing,1.8634685642459285
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,11,ev_month_8 ev_state_fl,1.8178200868802716
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,12,wind_dir_deg_90,1.8110346889770623
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,13,altimeter_29_989999771118164 wx_cond_basic_vmc,1.8021974982347733
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,14,ev_highest_injury_fatl,1.7375271328487598
+2022,event_aircraft_weather,Personnel issues-Experience/knowledge,15,ev_country_usa ev_highest_injury_fatl,1.7375271328487598
+2022,event_aircraft_weather,Personnel issues-Physical,1,inj_tot_f_1 inj_tot_s_0,2.8958351321576408
+2022,event_aircraft_weather,Personnel issues-Physical,2,ev_highest_injury_fatl,2.5662899932233763
+2022,event_aircraft_weather,Personnel issues-Physical,3,ev_country_usa ev_highest_injury_fatl,2.5662899932233763
+2022,event_aircraft_weather,Personnel issues-Physical,4,ev_highest_injury_fatl inj_tot_f_1,2.104060617923675
+2022,event_aircraft_weather,Personnel issues-Physical,5,inj_tot_f_1,2.104060617923675
+2022,event_aircraft_weather,Personnel issues-Physical,6,wx_temp_57 wx_dew_pt_34,1.997870036072659
+2022,event_aircraft_weather,Personnel issues-Physical,7,altimeter_30_239999771118164 wx_cond_basic_vmc,1.7818358120651356
+2022,event_aircraft_weather,Personnel issues-Physical,8,gust_kts_0 altimeter_30_239999771118164,1.7764148494530758
+2022,event_aircraft_weather,Personnel issues-Physical,9,altimeter_30_239999771118164,1.7325524136634787
+2022,event_aircraft_weather,Personnel issues-Physical,10,ev_month_7 ev_state_md,1.6365874893457923
+2022,event_aircraft_weather,Personnel issues-Physical,11,wx_dew_pt_34 wind_dir_deg_0,1.5944901868439743
+2022,event_aircraft_weather,Personnel issues-Physical,12,wx_dew_pt_19 wind_dir_deg_260,1.5576350700185986
+2022,event_aircraft_weather,Personnel issues-Physical,13,acft_category_air cert_max_gr_wt_2300,1.5493127109524267
+2022,event_aircraft_weather,Personnel issues-Physical,14,gust_kts_0 altimeter_29_93000030517578,1.5389486245435102
+2022,event_aircraft_weather,Personnel issues-Physical,15,cert_max_gr_wt_2300 num_eng_1,1.5311073733994869
+2022,event_aircraft_weather,Personnel issues-Psychological,1,acft_category_heli,2.101683889988513
+2022,event_aircraft_weather,Personnel issues-Psychological,2,wx_cond_basic_imc,1.8412290313715458
+2022,event_aircraft_weather,Personnel issues-Psychological,3,ev_month_7 ev_state_ak,1.5510910746591648
+2022,event_aircraft_weather,Personnel issues-Psychological,4,inj_tot_s_0 damage_dest,1.543880683567069
+2022,event_aircraft_weather,Personnel issues-Psychological,5,ev_state_az ev_country_usa,1.4095676761787237
+2022,event_aircraft_weather,Personnel issues-Psychological,6,ev_state_az,1.4095676761787237
+2022,event_aircraft_weather,Personnel issues-Psychological,7,damage_subs acft_make_bell,1.3918098447367846
+2022,event_aircraft_weather,Personnel issues-Psychological,8,acft_make_bell,1.2988628544527228
+2022,event_aircraft_weather,Personnel issues-Psychological,9,wind_dir_deg_190 wind_vel_kts_8,1.2848028630926762
+2022,event_aircraft_weather,Personnel issues-Psychological,10,ev_month_7 ev_state_wi,1.2640132219156006
+2022,event_aircraft_weather,Personnel issues-Psychological,11,wx_dew_pt_32,1.2496496584561694
+2022,event_aircraft_weather,Personnel issues-Psychological,12,wx_dew_pt_43,1.239225656008021
+2022,event_aircraft_weather,Personnel issues-Psychological,13,sky_cond_nonceil_missing,1.1883760639284322
+2022,event_aircraft_weather,Personnel issues-Psychological,14,wx_dew_pt_72 wind_dir_deg_0,1.1598533409923755
+2022,event_aircraft_weather,Personnel issues-Psychological,15,sky_cond_nonceil_missing sky_cond_ceil_none,1.1588550805767255
+2022,event_aircraft_weather,Personnel issues-Task performance,1,altimeter_29_93000030517578,0.9914922293918637
+2022,event_aircraft_weather,Personnel issues-Task performance,2,gust_kts_20,0.9844837004977687
+2022,event_aircraft_weather,Personnel issues-Task performance,3,ev_month_6,0.8884724256395867
+2022,event_aircraft_weather,Personnel issues-Task performance,4,gust_kts_0 altimeter_29_93000030517578,0.8166040948606773
+2022,event_aircraft_weather,Personnel issues-Task performance,5,ev_month_3,0.8149234286908199
+2022,event_aircraft_weather,Personnel issues-Task performance,6,altimeter_29_93000030517578 wx_cond_basic_vmc,0.8102792395922291
+2022,event_aircraft_weather,Personnel issues-Task performance,7,acft_make_piper,0.8096316304721022
+2022,event_aircraft_weather,Personnel issues-Task performance,8,wx_dew_pt_32,0.797919740180683
+2022,event_aircraft_weather,Personnel issues-Task performance,9,sky_cond_ceil_none vis_sm_10_0,0.7722639393147412
+2022,event_aircraft_weather,Personnel issues-Task performance,10,wind_dir_deg_130,0.7561976163649734
+2022,event_aircraft_weather,Personnel issues-Task performance,11,wx_dew_pt_7,0.7481738448779751
+2022,event_aircraft_weather,Personnel issues-Task performance,12,cert_max_gr_wt_2000,0.7240727518129133
+2022,event_aircraft_weather,Personnel issues-Task performance,13,vis_sm_10_0 wx_temp_54,0.7197290310565687
+2022,event_aircraft_weather,Personnel issues-Task performance,14,vis_sm_10_0 wx_temp_0,0.7082240480325162
+2022,event_aircraft_weather,Personnel issues-Task performance,15,damage_subs,0.6878946001926565
+2022,preliminary,Aircraft-Aircraft handling/service,1,ev_month_6 ev_state_ak,2.0499844602533064
+2022,preliminary,Aircraft-Aircraft handling/service,2,gust_kts_14,2.0253741103024323
+2022,preliminary,Aircraft-Aircraft handling/service,3,wx_temp_82 wx_dew_pt_68,1.9806330276915272
+2022,preliminary,Aircraft-Aircraft handling/service,4,acft_make_piper acft_model_pa_12,1.9183323326117663
+2022,preliminary,Aircraft-Aircraft handling/service,5,acft_model_pa_12,1.9183323326117663
+2022,preliminary,Aircraft-Aircraft handling/service,6,acft_model_pa_12 acft_category_air,1.9183323326117663
+2022,preliminary,Aircraft-Aircraft handling/service,7,ev_month_5 ev_state_il,1.9022618031468228
+2022,preliminary,Aircraft-Aircraft handling/service,8,acft_make_aeronca,1.6805989471516691
+2022,preliminary,Aircraft-Aircraft handling/service,9,damage_subs acft_make_aeronca,1.6805989471516691
+2022,preliminary,Aircraft-Aircraft handling/service,10,trailer,1.6665887132826454
+2022,preliminary,Aircraft-Aircraft handling/service,11,inspection,1.6565623783526668
+2022,preliminary,Aircraft-Aircraft handling/service,12,ev_state_ms ev_country_usa,1.635377995670093
+2022,preliminary,Aircraft-Aircraft handling/service,13,ev_state_ms,1.635377995670093
+2022,preliminary,Aircraft-Aircraft handling/service,14,gust_kts_0 altimeter_29_770000457763672,1.5213364729495704
+2022,preliminary,Aircraft-Aircraft handling/service,15,acft_category_heli,1.5137703152706248
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,1,runway,1.4366933522091263
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,2,light_cond_dayl sky_cond_nonceil_cler,1.0962628148831899
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,3,wind,1.067445784839888
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,4,stall,1.0145428792488602
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,5,num_eng_1,0.9833060092198472
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,6,num_eng_1 phase_flt_spec_missing,0.9833060092198472
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,7,nose,0.9380229906568769
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,8,crosswind,0.8922461953558238
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,9,weight,0.8811165544914917
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,10,ev_state_pa,0.8782533020712459
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,11,ev_state_pa ev_country_usa,0.8782533020712459
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,12,wind_dir_deg_240,0.8755938634712362
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,13,flight control,0.8729380200514796
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,14,inj_tot_s_1 damage_subs,0.8714609736323179
+2022,preliminary,Aircraft-Aircraft oper/perf/capability,15,witness,0.8632945551004504
+2022,preliminary,Aircraft-Aircraft power plant,1,engine,4.15053947156265
+2022,preliminary,Aircraft-Aircraft power plant,2,cylinder,2.4215449400302336
+2022,preliminary,Aircraft-Aircraft power plant,3,oil,2.2960313195161604
+2022,preliminary,Aircraft-Aircraft power plant,4,power,2.2479637531219283
+2022,preliminary,Aircraft-Aircraft power plant,5,wind_dir_deg_10,1.6415175189299853
+2022,preliminary,Aircraft-Aircraft power plant,6,engine power,1.5554797916564307
+2022,preliminary,Aircraft-Aircraft power plant,7,magneto,1.523582925555146
+2022,preliminary,Aircraft-Aircraft power plant,8,forced landing,1.5148268040662662
+2022,preliminary,Aircraft-Aircraft power plant,9,exhaust,1.5097495222015764
+2022,preliminary,Aircraft-Aircraft power plant,10,examination engine,1.5041291591069899
+2022,preliminary,Aircraft-Aircraft power plant,11,overhaul,1.4786173615065992
+2022,preliminary,Aircraft-Aircraft power plant,12,mechanic,1.4651959198154667
+2022,preliminary,Aircraft-Aircraft power plant,13,forced,1.453516893906942
+2022,preliminary,Aircraft-Aircraft power plant,14,loss,1.439405389030753
+2022,preliminary,Aircraft-Aircraft power plant,15,throttle,1.4287573516794094
+2022,preliminary,Aircraft-Aircraft propeller/rotor,1,rotor,3.1746312216501504
+2022,preliminary,Aircraft-Aircraft propeller/rotor,2,helicopter,2.9225470861543505
+2022,preliminary,Aircraft-Aircraft propeller/rotor,3,tail rotor,2.498768584432467
+2022,preliminary,Aircraft-Aircraft propeller/rotor,4,tail,2.2167794866508004
+2022,preliminary,Aircraft-Aircraft propeller/rotor,5,blade,2.1534282800742086
+2022,preliminary,Aircraft-Aircraft propeller/rotor,6,wind_dir_deg_120,2.057850934639691
+2022,preliminary,Aircraft-Aircraft propeller/rotor,7,acft_make_enstrom,1.816427654770947
+2022,preliminary,Aircraft-Aircraft propeller/rotor,8,damage_subs acft_make_beech,1.8059652799275023
+2022,preliminary,Aircraft-Aircraft propeller/rotor,9,main rotor,1.684427298330247
+2022,preliminary,Aircraft-Aircraft propeller/rotor,10,acft_make_beech,1.6701828422613703
+2022,preliminary,Aircraft-Aircraft propeller/rotor,11,blades,1.6651053187929141
+2022,preliminary,Aircraft-Aircraft propeller/rotor,12,wx_dew_pt_72 wind_dir_deg_0,1.6186627927690949
+2022,preliminary,Aircraft-Aircraft propeller/rotor,13,wind_dir_deg_120 wind_vel_kts_6,1.5607433699974025
+2022,preliminary,Aircraft-Aircraft propeller/rotor,14,wx_temp_81 wx_dew_pt_70,1.527757938158948
+2022,preliminary,Aircraft-Aircraft propeller/rotor,15,rotor blade,1.4953051817689718
+2022,preliminary,Aircraft-Aircraft structures,1,ev_month_11 ev_state_fl,2.244091653054003
+2022,preliminary,Aircraft-Aircraft structures,2,wind_dir_deg_10,2.0024669420439563
+2022,preliminary,Aircraft-Aircraft structures,3,windshield,1.9496666582210684
+2022,preliminary,Aircraft-Aircraft structures,4,wind_dir_deg_180 wind_vel_kts_7,1.926968866219621
+2022,preliminary,Aircraft-Aircraft structures,5,latch,1.8737992851843521
+2022,preliminary,Aircraft-Aircraft structures,6,door,1.6207437949526053
+2022,preliminary,Aircraft-Aircraft structures,7,acft_category_air cert_max_gr_wt_missing,1.6166878845961787
+2022,preliminary,Aircraft-Aircraft structures,8,wx_dew_pt_72 wind_dir_deg_0,1.5903086865344715
+2022,preliminary,Aircraft-Aircraft structures,9,wx_temp_63,1.5787954790636092
+2022,preliminary,Aircraft-Aircraft structures,10,spar,1.5586818388102777
+2022,preliminary,Aircraft-Aircraft structures,11,wx_dew_pt_66,1.5283052459834932
+2022,preliminary,Aircraft-Aircraft structures,12,fracture,1.5079907954683662
+2022,preliminary,Aircraft-Aircraft structures,13,acft_category_air cert_max_gr_wt_3200,1.5054873806247535
+2022,preliminary,Aircraft-Aircraft structures,14,fasteners,1.497230464593305
+2022,preliminary,Aircraft-Aircraft structures,15,hinge,1.4919552891880445
+2022,preliminary,Aircraft-Aircraft systems,1,landing gear,1.8637639720364143
+2022,preliminary,Aircraft-Aircraft systems,2,num_eng_2,1.6936407777129778
+2022,preliminary,Aircraft-Aircraft systems,3,num_eng_2 phase_flt_spec_missing,1.6936407777129778
+2022,preliminary,Aircraft-Aircraft systems,4,brake,1.6605870189492453
+2022,preliminary,Aircraft-Aircraft systems,5,gear,1.5718307648201066
+2022,preliminary,Aircraft-Aircraft systems,6,hydraulic,1.3633015220814286
+2022,preliminary,Aircraft-Aircraft systems,7,electrical,1.3312596478587246
+2022,preliminary,Aircraft-Aircraft systems,8,ev_month_10,1.2986895724558907
+2022,preliminary,Aircraft-Aircraft systems,9,brakes,1.234764576398136
+2022,preliminary,Aircraft-Aircraft systems,10,trim,1.1942079347981172
+2022,preliminary,Aircraft-Aircraft systems,11,position,1.109618195927497
+2022,preliminary,Aircraft-Aircraft systems,12,wind_dir_deg_190,1.0940678521914233
+2022,preliminary,Aircraft-Aircraft systems,13,landing,1.0818016930559413
+2022,preliminary,Aircraft-Aircraft systems,14,wx_dew_pt_75,1.067413816983048
+2022,preliminary,Aircraft-Aircraft systems,15,installed,1.0584593450784092
+2022,preliminary,Aircraft-Fluids/misc hardware,1,fuel,3.8019624045268667
+2022,preliminary,Aircraft-Fluids/misc hardware,2,tank,3.4001951462654527
+2022,preliminary,Aircraft-Fluids/misc hardware,3,gallons,2.4151500396043923
+2022,preliminary,Aircraft-Fluids/misc hardware,4,fuel tank,2.344593775820458
+2022,preliminary,Aircraft-Fluids/misc hardware,5,tanks,2.162246010783825
+2022,preliminary,Aircraft-Fluids/misc hardware,6,damage_subs acft_make_piper,1.9172814483502272
+2022,preliminary,Aircraft-Fluids/misc hardware,7,fuel tanks,1.914755962403254
+2022,preliminary,Aircraft-Fluids/misc hardware,8,ev_month_9,1.6675767524156215
+2022,preliminary,Aircraft-Fluids/misc hardware,9,acft_make_piper,1.6674027540752203
+2022,preliminary,Aircraft-Fluids/misc hardware,10,oil,1.6551158668716752
+2022,preliminary,Aircraft-Fluids/misc hardware,11,wind_vel_kts_10 gust_kts_0,1.505006271090445
+2022,preliminary,Aircraft-Fluids/misc hardware,12,wind_dir_deg_150,1.370595323244256
+2022,preliminary,Aircraft-Fluids/misc hardware,13,acft_category_air cert_max_gr_wt_1600,1.3475203044827933
+2022,preliminary,Aircraft-Fluids/misc hardware,14,ev_state_ne,1.3377745527935982
+2022,preliminary,Aircraft-Fluids/misc hardware,15,ev_state_ne ev_country_usa,1.3377745527935982
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,1,wind,2.423868988246829
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,2,icing,2.2767655278216896
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,3,conditions,2.217890801538013
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,4,weather,2.1119215216927536
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,5,inj_tot_s_1 damage_missing,1.6189027952055055
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,6,crosswind,1.4580280846692957
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,7,wind_dir_deg_180,1.448415032960811
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,8,time accident,1.4279294295377787
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,9,damage_missing,1.4008928799803044
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,10,phase_flt_spec_missing light_cond_nite,1.370514805615043
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,11,light_cond_nite,1.370514805615043
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,12,acft_category_ball,1.3354346132188781
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,13,wx_cond_basic_imc,1.3072809522515554
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,14,gust_kts_17,1.2953282995760567
+2022,preliminary,Environmental issues-Conditions/weather/phenomena,15,knots,1.2845817520552343
+2022,preliminary,Environmental issues-Operating environment,1,wx_dew_pt_72,1.7549857414499317
+2022,preliminary,Environmental issues-Operating environment,2,wx_temp_93,1.549224992767224
+2022,preliminary,Environmental issues-Operating environment,3,vis_sm_10_0 wx_temp_93,1.549224992767224
+2022,preliminary,Environmental issues-Operating environment,4,num_eng_0,1.5011575384634384
+2022,preliminary,Environmental issues-Operating environment,5,num_eng_0 phase_flt_spec_missing,1.5011575384634384
+2022,preliminary,Environmental issues-Operating environment,6,gust_kts_0 altimeter_29_84000015258789,1.4946159020013978
+2022,preliminary,Environmental issues-Operating environment,7,ev_month_6 ev_state_tx,1.4690993125395782
+2022,preliminary,Environmental issues-Operating environment,8,rv,1.4584050078689563
+2022,preliminary,Environmental issues-Operating environment,9,acft_category_gli,1.456705951205679
+2022,preliminary,Environmental issues-Operating environment,10,helicopter,1.4512102396602262
+2022,preliminary,Environmental issues-Operating environment,11,runway,1.445724343201998
+2022,preliminary,Environmental issues-Operating environment,12,wind_vel_kts_11,1.4261733346780636
+2022,preliminary,Environmental issues-Operating environment,13,altimeter_29_84000015258789 wx_cond_basic_vmc,1.3738064378901054
+2022,preliminary,Environmental issues-Operating environment,14,altimeter_29_84000015258789,1.3597627938577392
+2022,preliminary,Environmental issues-Operating environment,15,wind_vel_kts_11 gust_kts_0,1.2161704116438483
+2022,preliminary,Environmental issues-Physical environment,1,wind_dir_deg_360,1.505453492508508
+2022,preliminary,Environmental issues-Physical environment,2,wx_dew_pt_30,1.3496917188270228
+2022,preliminary,Environmental issues-Physical environment,3,ev_month_7 ev_state_ak,1.3423764922102133
+2022,preliminary,Environmental issues-Physical environment,4,terrain,1.2787406220782895
+2022,preliminary,Environmental issues-Physical environment,5,ev_state_ak ev_country_usa,1.2744583919319878
+2022,preliminary,Environmental issues-Physical environment,6,ev_state_ak,1.2744583919319878
+2022,preliminary,Environmental issues-Physical environment,7,acft_category_heli,1.2022914913129574
+2022,preliminary,Environmental issues-Physical environment,8,wx_dew_pt_30 wind_dir_deg_0,1.1842804215811762
+2022,preliminary,Environmental issues-Physical environment,9,wind_dir_deg_220,1.1132051428071237
+2022,preliminary,Environmental issues-Physical environment,10,collided,1.092313290318853
+2022,preliminary,Environmental issues-Physical environment,11,ev_state_tx ev_country_usa,1.0881654974545931
+2022,preliminary,Environmental issues-Physical environment,12,ev_state_tx,1.0881654974545931
+2022,preliminary,Environmental issues-Physical environment,13,impacted,1.046135197017039
+2022,preliminary,Environmental issues-Physical environment,14,acft_make_air_tractor_inc,1.0074520020879334
+2022,preliminary,Environmental issues-Physical environment,15,wx_cond_basic_vmc pilot,0.99545507682514
+2022,preliminary,Not determined-Not determined,1,fuel,2.0666487427391997
+2022,preliminary,Not determined-Not determined,2,engine,1.9643051590347584
+2022,preliminary,Not determined-Not determined,3,wind_dir_deg_350 wind_vel_kts_5,1.9470323225038022
+2022,preliminary,Not determined-Not determined,4,wind_dir_deg_350,1.8977814364152126
+2022,preliminary,Not determined-Not determined,5,wx_temp_81 wx_dew_pt_64,1.832854602231671
+2022,preliminary,Not determined-Not determined,6,helicopter,1.335053674016554
+2022,preliminary,Not determined-Not determined,7,run,1.2993306386893628
+2022,preliminary,Not determined-Not determined,8,vis_sm_10_0 wx_temp_37,1.2323851126770597
+2022,preliminary,Not determined-Not determined,9,ev_month_10 ev_state_ak,1.2306766954272668
+2022,preliminary,Not determined-Not determined,10,inj_tot_s_0 damage_dest,1.183187953792321
+2022,preliminary,Not determined-Not determined,11,airframe,1.1631335283091908
+2022,preliminary,Not determined-Not determined,12,wx_temp_37,1.1371627205065535
+2022,preliminary,Not determined-Not determined,13,wx_dew_pt_54 wind_dir_deg_0,1.1270043717933245
+2022,preliminary,Not determined-Not determined,14,propeller,1.1184987532376405
+2022,preliminary,Not determined-Not determined,15,wind_dir_deg_180 wind_vel_kts_7,1.0975484832345623
+2022,preliminary,Personnel issues-Action/decision,1,approach,1.1057974417841092
+2022,preliminary,Personnel issues-Action/decision,2,said,1.083472446378334
+2022,preliminary,Personnel issues-Action/decision,3,wind_dir_deg_210,0.9989262767592596
+2022,preliminary,Personnel issues-Action/decision,4,added,0.9694676784799564
+2022,preliminary,Personnel issues-Action/decision,5,damage_subs acft_make_air_tractor_inc,0.8692172990478615
+2022,preliminary,Personnel issues-Action/decision,6,weight,0.8384001331547677
+2022,preliminary,Personnel issues-Action/decision,7,snow,0.82990034422589
+2022,preliminary,Personnel issues-Action/decision,8,ev_month_12 ev_state_tx,0.8269479015943125
+2022,preliminary,Personnel issues-Action/decision,9,included,0.8227007489334202
+2022,preliminary,Personnel issues-Action/decision,10,wind_vel_kts_12,0.8186584440736586
+2022,preliminary,Personnel issues-Action/decision,11,distance,0.8183095897719761
+2022,preliminary,Personnel issues-Action/decision,12,ev_month_12,0.81280356457526
+2022,preliminary,Personnel issues-Action/decision,13,ev_month_7 ev_state_wa,0.8102714310361312
+2022,preliminary,Personnel issues-Action/decision,14,departure,0.8098162788452009
+2022,preliminary,Personnel issues-Action/decision,15,num_eng_2 phase_flt_spec_missing,0.8042070357894753
+2022,preliminary,Personnel issues-Experience/knowledge,1,wind_dir_deg_210,2.692440468581257
+2022,preliminary,Personnel issues-Experience/knowledge,2,sky_cond_nonceil_cler sky_cond_ceil_ovc,1.7824435866067048
+2022,preliminary,Personnel issues-Experience/knowledge,3,cert_max_gr_wt_missing,1.7582026440013854
+2022,preliminary,Personnel issues-Experience/knowledge,4,acft_category_air cert_max_gr_wt_missing,1.7556493325154479
+2022,preliminary,Personnel issues-Experience/knowledge,5,num_eng_missing,1.6764170308640958
+2022,preliminary,Personnel issues-Experience/knowledge,6,num_eng_missing phase_flt_spec_missing,1.6764170308640958
+2022,preliminary,Personnel issues-Experience/knowledge,7,vis_sm_10_0 wx_temp_73,1.5295622614940636
+2022,preliminary,Personnel issues-Experience/knowledge,8,ev_month_4,1.4725222248494032
+2022,preliminary,Personnel issues-Experience/knowledge,9,wx_temp_73,1.4722243359898197
+2022,preliminary,Personnel issues-Experience/knowledge,10,wx_dew_pt_34,1.4010258967248974
+2022,preliminary,Personnel issues-Experience/knowledge,11,certificate,1.3861280560798053
+2022,preliminary,Personnel issues-Experience/knowledge,12,ev_state_in,1.3354623461755164
+2022,preliminary,Personnel issues-Experience/knowledge,13,ev_state_in ev_country_usa,1.3354623461755164
+2022,preliminary,Personnel issues-Experience/knowledge,14,wx_dew_pt_41,1.3184980007710336
+2022,preliminary,Personnel issues-Experience/knowledge,15,gust_kts_0 altimeter_30_100000381469727,1.3056115279651843
+2022,preliminary,Personnel issues-Physical,1,blood,2.579417105295156
+2022,preliminary,Personnel issues-Physical,2,gust_kts_0 altimeter_30_239999771118164,2.1519241117373036
+2022,preliminary,Personnel issues-Physical,3,altimeter_30_239999771118164 wx_cond_basic_vmc,2.119969135010642
+2022,preliminary,Personnel issues-Physical,4,altimeter_30_239999771118164,2.0858876526575623
+2022,preliminary,Personnel issues-Physical,5,wind_dir_deg_230 wind_vel_kts_8,1.7505469257642963
+2022,preliminary,Personnel issues-Physical,6,wind_dir_deg_230,1.7327342405021962
+2022,preliminary,Personnel issues-Physical,7,ng,1.5889016612410622
+2022,preliminary,Personnel issues-Physical,8,wx_dew_pt_59 wind_dir_deg_0,1.5825691710152912
+2022,preliminary,Personnel issues-Physical,9,light_cond_dayl sky_cond_nonceil_scat,1.542365056557862
+2022,preliminary,Personnel issues-Physical,10,sky_cond_nonceil_scat,1.5121120030989992
+2022,preliminary,Personnel issues-Physical,11,brain,1.4902972553202998
+2022,preliminary,Personnel issues-Physical,12,gust_kts_0 altimeter_29_770000457763672,1.4864908347478962
+2022,preliminary,Personnel issues-Physical,13,medical,1.4699933919408215
+2022,preliminary,Personnel issues-Physical,14,oxygen,1.4471563520258017
+2022,preliminary,Personnel issues-Physical,15,altimeter_29_770000457763672 wx_cond_basic_vmc,1.446837645567417
+2022,preliminary,Personnel issues-Psychological,1,acft_category_heli,2.3268625849929467
+2022,preliminary,Personnel issues-Psychological,2,ev_month_7 ev_state_ak,1.808621917434676
+2022,preliminary,Personnel issues-Psychological,3,acft_make_bell,1.489625950883934
+2022,preliminary,Personnel issues-Psychological,4,ev_month_7,1.3644541369382714
+2022,preliminary,Personnel issues-Psychological,5,damage_subs acft_make_bell,1.3332042628019987
+2022,preliminary,Personnel issues-Psychological,6,ev_state_ca,1.3293002233584912
+2022,preliminary,Personnel issues-Psychological,7,ev_state_ca ev_country_usa,1.3293002233584912
+2022,preliminary,Personnel issues-Psychological,8,wx_dew_pt_32,1.3241848370947695
+2022,preliminary,Personnel issues-Psychological,9,wx_dew_pt_30,1.2878617332344755
+2022,preliminary,Personnel issues-Psychological,10,wind_dir_deg_360,1.2549902301130647
+2022,preliminary,Personnel issues-Psychological,11,ev_state_az ev_country_usa,1.2505235144330953
+2022,preliminary,Personnel issues-Psychological,12,ev_state_az,1.2505235144330953
+2022,preliminary,Personnel issues-Psychological,13,wx_temp_36,1.2073923792480976
+2022,preliminary,Personnel issues-Psychological,14,inj_tot_s_0 damage_minr,1.2058649176587901
+2022,preliminary,Personnel issues-Psychological,15,vis_sm_10_0 wx_temp_50,1.1973873039756961
+2022,preliminary,Personnel issues-Task performance,1,airplane precluded,1.0476855884768412
+2022,preliminary,Personnel issues-Task performance,2,gust_kts_20,0.9489186641064468
+2022,preliminary,Personnel issues-Task performance,3,vis_sm_10_0 wx_temp_64,0.9147020310591191
+2022,preliminary,Personnel issues-Task performance,4,wx_dew_pt_61,0.9069886597964175
+2022,preliminary,Personnel issues-Task performance,5,wind_dir_deg_140,0.8986403777901679
+2022,preliminary,Personnel issues-Task performance,6,control,0.8627358473375213
+2022,preliminary,Personnel issues-Task performance,7,acft_category_ball,0.8263183693007237
+2022,preliminary,Personnel issues-Task performance,8,stall,0.8096811153239448
+2022,preliminary,Personnel issues-Task performance,9,ev_state_mt ev_country_usa,0.8050441299221254
+2022,preliminary,Personnel issues-Task performance,10,ev_state_mt,0.8050441299221254
+2022,preliminary,Personnel issues-Task performance,11,wx_dew_pt_68,0.804588323434959
+2022,preliminary,Personnel issues-Task performance,12,damage_subs,0.801138348402003
+2022,preliminary,Personnel issues-Task performance,13,inj_tot_s_0 damage_subs,0.7982853204953164
+2022,preliminary,Personnel issues-Task performance,14,ev_month_5,0.7652587386301463
+2022,preliminary,Personnel issues-Task performance,15,gust_kts_17,0.762607304051268
+2022,mature_factual,Aircraft-Aircraft handling/service,1,trailer,2.453554567688492
+2022,mature_factual,Aircraft-Aircraft handling/service,2,pad,1.5460741570634433
+2022,mature_factual,Aircraft-Aircraft handling/service,3,helicopter rolled,1.3974942979864835
+2022,mature_factual,Aircraft-Aircraft handling/service,4,tube,1.366925849334646
+2022,mature_factual,Aircraft-Aircraft handling/service,5,parking brake,1.3097006130775848
+2022,mature_factual,Aircraft-Aircraft handling/service,6,lighter,1.2907252168489705
+2022,mature_factual,Aircraft-Aircraft handling/service,7,engine started,1.2846316270215903
+2022,mature_factual,Aircraft-Aircraft handling/service,8,limit,1.2836255254984712
+2022,mature_factual,Aircraft-Aircraft handling/service,9,gross,1.250362611084103
+2022,mature_factual,Aircraft-Aircraft handling/service,10,crankcase,1.2462973447120471
+2022,mature_factual,Aircraft-Aircraft handling/service,11,smoke,1.2174300755366665
+2022,mature_factual,Aircraft-Aircraft handling/service,12,report mechanical,1.217299037478605
+2022,mature_factual,Aircraft-Aircraft handling/service,13,diverted,1.193674367228399
+2022,mature_factual,Aircraft-Aircraft handling/service,14,gross weight,1.1866114208104181
+2022,mature_factual,Aircraft-Aircraft handling/service,15,breather tube,1.1802561761055688
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,1,runway,2.059939241311145
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,2,wind,2.0230885844994564
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,3,stall,1.6526352338207775
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,4,airspeed,1.591030581531778
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,5,veered,1.5619638791628097
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,6,hard,1.4640539216491801
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,7,nose,1.4389182594258274
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,8,bounced,1.414445692682867
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,9,crosswind,1.3605278572653425
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,10,stalled,1.2623798360878202
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,11,aerodynamic,1.1774700377689729
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,12,aerodynamic stall,1.1732246174725542
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,13,mechanical malfunctions,1.159385222960923
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,14,right rudder,1.156052302724506
+2022,mature_factual,Aircraft-Aircraft oper/perf/capability,15,veered left,1.1298562968501555
+2022,mature_factual,Aircraft-Aircraft power plant,1,engine,4.103623524507491
+2022,mature_factual,Aircraft-Aircraft power plant,2,power,2.6975537425025027
+2022,mature_factual,Aircraft-Aircraft power plant,3,oil,2.2506661268124573
+2022,mature_factual,Aircraft-Aircraft power plant,4,cylinder,2.182460206410734
+2022,mature_factual,Aircraft-Aircraft power plant,5,throttle,2.0454852576980547
+2022,mature_factual,Aircraft-Aircraft power plant,6,loss engine,2.014579916506254
+2022,mature_factual,Aircraft-Aircraft power plant,7,loss,1.96170192694709
+2022,mature_factual,Aircraft-Aircraft power plant,8,examination engine,1.8758711614066605
+2022,mature_factual,Aircraft-Aircraft power plant,9,engine power,1.8641461641691974
+2022,mature_factual,Aircraft-Aircraft power plant,10,partial,1.7319152465204666
+2022,mature_factual,Aircraft-Aircraft power plant,11,forced landing,1.6139424011017407
+2022,mature_factual,Aircraft-Aircraft power plant,12,forced,1.573303473371742
+2022,mature_factual,Aircraft-Aircraft power plant,13,exhaust,1.557056277953901
+2022,mature_factual,Aircraft-Aircraft power plant,14,mechanic,1.5282093093290285
+2022,mature_factual,Aircraft-Aircraft power plant,15,mixture,1.5224528341690622
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,1,rotor,3.0506262872147234
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,2,tail rotor,2.317956485804137
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,3,blade,2.2175243728257636
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,4,blades,2.0027921568637157
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,5,propellers,1.998674396138883
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,6,helicopter,1.9840336999208361
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,7,propeller,1.7881629932149414
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,8,main rotor,1.7873418088109048
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,9,tail,1.7361844694407556
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,10,rotor blade,1.588095732904805
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,11,gearbox,1.5303090984941559
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,12,clutch,1.5237333653334935
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,13,rpm,1.4642014919084285
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,14,thrust,1.4335558589547652
+2022,mature_factual,Aircraft-Aircraft propeller/rotor,15,revealed propeller,1.3540042324411563
+2022,mature_factual,Aircraft-Aircraft structures,1,latch,2.325357992291647
+2022,mature_factual,Aircraft-Aircraft structures,2,windshield,2.285760934875869
+2022,mature_factual,Aircraft-Aircraft structures,3,canopy,2.2819318509962976
+2022,mature_factual,Aircraft-Aircraft structures,4,hardware,1.7778534615880766
+2022,mature_factual,Aircraft-Aircraft structures,5,bolt,1.773702926386189
+2022,mature_factual,Aircraft-Aircraft structures,6,spar,1.7380110887109383
+2022,mature_factual,Aircraft-Aircraft structures,7,door,1.706305818960289
+2022,mature_factual,Aircraft-Aircraft structures,8,fasteners,1.5112959141576623
+2022,mature_factual,Aircraft-Aircraft structures,9,fracture,1.4858473638245622
+2022,mature_factual,Aircraft-Aircraft structures,10,uncommanded,1.4641434950758299
+2022,mature_factual,Aircraft-Aircraft structures,11,edge,1.4574102630326156
+2022,mature_factual,Aircraft-Aircraft structures,12,baggage door,1.428121174316577
+2022,mature_factual,Aircraft-Aircraft structures,13,latching,1.4151862023279576
+2022,mature_factual,Aircraft-Aircraft structures,14,stabilizer,1.3632472052008306
+2022,mature_factual,Aircraft-Aircraft structures,15,spray,1.3513258889909499
+2022,mature_factual,Aircraft-Aircraft systems,1,landing gear,2.967256395198362
+2022,mature_factual,Aircraft-Aircraft systems,2,gear,2.804629041914403
+2022,mature_factual,Aircraft-Aircraft systems,3,brakes,2.5372605654364895
+2022,mature_factual,Aircraft-Aircraft systems,4,failed,2.2557581073322526
+2022,mature_factual,Aircraft-Aircraft systems,5,electrical,2.1041840448148843
+2022,mature_factual,Aircraft-Aircraft systems,6,gear retracted,2.0260807574899546
+2022,mature_factual,Aircraft-Aircraft systems,7,brake,1.9178483425281978
+2022,mature_factual,Aircraft-Aircraft systems,8,retracted,1.785945470233072
+2022,mature_factual,Aircraft-Aircraft systems,9,extend,1.727172058762968
+2022,mature_factual,Aircraft-Aircraft systems,10,checklist,1.7105696908102148
+2022,mature_factual,Aircraft-Aircraft systems,11,landing,1.6973188516492366
+2022,mature_factual,Aircraft-Aircraft systems,12,applied brakes,1.4771374008043625
+2022,mature_factual,Aircraft-Aircraft systems,13,hydraulic,1.3542185318816633
+2022,mature_factual,Aircraft-Aircraft systems,14,extended,1.266346793624201
+2022,mature_factual,Aircraft-Aircraft systems,15,trim,1.2290260157036612
+2022,mature_factual,Aircraft-Fluids/misc hardware,1,fuel,5.286731855731477
+2022,mature_factual,Aircraft-Fluids/misc hardware,2,tank,4.104749926975758
+2022,mature_factual,Aircraft-Fluids/misc hardware,3,fuel tank,2.942416545437125
+2022,mature_factual,Aircraft-Fluids/misc hardware,4,tanks,2.9360168530271205
+2022,mature_factual,Aircraft-Fluids/misc hardware,5,gallons,2.763677763113489
+2022,mature_factual,Aircraft-Fluids/misc hardware,6,fuel tanks,2.745776309540507
+2022,mature_factual,Aircraft-Fluids/misc hardware,7,forced,2.2096310218994115
+2022,mature_factual,Aircraft-Fluids/misc hardware,8,forced landing,2.1767252846958103
+2022,mature_factual,Aircraft-Fluids/misc hardware,9,lost power,2.1346277910029574
+2022,mature_factual,Aircraft-Fluids/misc hardware,10,oil,1.8298190717838716
+2022,mature_factual,Aircraft-Fluids/misc hardware,11,starvation,1.565162805070282
+2022,mature_factual,Aircraft-Fluids/misc hardware,12,exhaustion,1.5625811167877448
+2022,mature_factual,Aircraft-Fluids/misc hardware,13,engine lost,1.4884487148751948
+2022,mature_factual,Aircraft-Fluids/misc hardware,14,power,1.4808737263143408
+2022,mature_factual,Aircraft-Fluids/misc hardware,15,engine,1.4558849606328208
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,1,wind,4.757712855189165
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,2,conditions,3.4906574606360508
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,3,crosswind,3.471889362746429
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,4,encountered,3.3645318036697556
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,5,weather,2.7080985277818215
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,6,gust,2.6825919398922498
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,7,tailwind,2.570947190139484
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,8,knots,2.327011076743495
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,9,icing,2.29260609099926
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,10,gusting,2.1032243811842384
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,11,time accident,2.045115240422165
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,12,turbulence,2.0352618600427075
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,13,airplane encountered,1.5965258396818134
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,14,carburetor heat,1.58674068372818
+2022,mature_factual,Environmental issues-Conditions/weather/phenomena,15,carburetor icing,1.5311693085393916
+2022,mature_factual,Environmental issues-Operating environment,1,glider,1.5269474969511894
+2022,mature_factual,Environmental issues-Operating environment,2,rv,1.446563059378213
+2022,mature_factual,Environmental issues-Operating environment,3,field view,1.3822645324838305
+2022,mature_factual,Environmental issues-Operating environment,4,view,1.3751305607816688
+2022,mature_factual,Environmental issues-Operating environment,5,vehicles,1.335465012202518
+2022,mature_factual,Environmental issues-Operating environment,6,rpic,1.1972888866733091
+2022,mature_factual,Environmental issues-Operating environment,7,pilots reported,1.177476929499885
+2022,mature_factual,Environmental issues-Operating environment,8,pages,1.118889500186216
+2022,mature_factual,Environmental issues-Operating environment,9,respond,1.101923336715167
+2022,mature_factual,Environmental issues-Operating environment,10,runway 32,1.093728357027776
+2022,mature_factual,Environmental issues-Operating environment,11,drone,1.0788970568181273
+2022,mature_factual,Environmental issues-Operating environment,12,set,1.0664536043511599
+2022,mature_factual,Environmental issues-Operating environment,13,airshow,1.065890899042117
+2022,mature_factual,Environmental issues-Operating environment,14,cessna pilot,1.0472113259919273
+2022,mature_factual,Environmental issues-Operating environment,15,zone,1.0428929243864484
+2022,mature_factual,Environmental issues-Physical environment,1,snow,2.185239318580086
+2022,mature_factual,Environmental issues-Physical environment,2,collided,1.9190187669337757
+2022,mature_factual,Environmental issues-Physical environment,3,deer,1.6401166110610756
+2022,mature_factual,Environmental issues-Physical environment,4,impacted,1.614573882956493
+2022,mature_factual,Environmental issues-Physical environment,5,tree,1.6006695929426085
+2022,mature_factual,Environmental issues-Physical environment,6,soft,1.4968565701156047
+2022,mature_factual,Environmental issues-Physical environment,7,trees,1.4655934988381338
+2022,mature_factual,Environmental issues-Physical environment,8,terrain,1.4472056053235183
+2022,mature_factual,Environmental issues-Physical environment,9,fence,1.333311889219472
+2022,mature_factual,Environmental issues-Physical environment,10,bird,1.3054095883116044
+2022,mature_factual,Environmental issues-Physical environment,11,struck,1.3031219300446806
+2022,mature_factual,Environmental issues-Physical environment,12,avoid,1.2837713819191843
+2022,mature_factual,Environmental issues-Physical environment,13,power line,1.2741349210189805
+2022,mature_factual,Environmental issues-Physical environment,14,power lines,1.2592647380510409
+2022,mature_factual,Environmental issues-Physical environment,15,pole,1.2561091132431368
+2022,mature_factual,Not determined-Not determined,1,reason,3.207335129940869
+2022,mature_factual,Not determined-Not determined,2,determined,2.7152097822772356
+2022,mature_factual,Not determined-Not determined,3,power determined,2.5805340478101706
+2022,mature_factual,Not determined-Not determined,4,evidence,1.8475233611249609
+2022,mature_factual,Not determined-Not determined,5,reason loss,1.749454070694105
+2022,mature_factual,Not determined-Not determined,6,determined based,1.5900463475051634
+2022,mature_factual,Not determined-Not determined,7,engine,1.5675594639694705
+2022,mature_factual,Not determined-Not determined,8,examination,1.4965598925653232
+2022,mature_factual,Not determined-Not determined,9,available evidence,1.4389293189055417
+2022,mature_factual,Not determined-Not determined,10,airframe,1.4366858288908055
+2022,mature_factual,Not determined-Not determined,11,examined,1.311431748835736
+2022,mature_factual,Not determined-Not determined,12,fuel,1.2976243571829664
+2022,mature_factual,Not determined-Not determined,13,available,1.294556978698804
+2022,mature_factual,Not determined-Not determined,14,test,1.2280107648567586
+2022,mature_factual,Not determined-Not determined,15,based available,1.2213388078964156
+2022,mature_factual,Personnel issues-Action/decision,1,added,1.6788250334558394
+2022,mature_factual,Personnel issues-Action/decision,2,instructor,1.5198678475944742
+2022,mature_factual,Personnel issues-Action/decision,3,said,1.388282604507892
+2022,mature_factual,Personnel issues-Action/decision,4,flight instructor,1.2893657638989524
+2022,mature_factual,Personnel issues-Action/decision,5,snow,1.276082344312371
+2022,mature_factual,Personnel issues-Action/decision,6,decision,1.0716556742990382
+2022,mature_factual,Personnel issues-Action/decision,7,takeoff,1.0536335570464272
+2022,mature_factual,Personnel issues-Action/decision,8,high,1.0536033110574976
+2022,mature_factual,Personnel issues-Action/decision,9,student,0.9726985150177229
+2022,mature_factual,Personnel issues-Action/decision,10,airport,0.9442212369424011
+2022,mature_factual,Personnel issues-Action/decision,11,snow covered,0.9127910605730581
+2022,mature_factual,Personnel issues-Action/decision,12,decided,0.9008332813709506
+2022,mature_factual,Personnel issues-Action/decision,13,taxi,0.8959039109577401
+2022,mature_factual,Personnel issues-Action/decision,14,weight,0.8797017682262878
+2022,mature_factual,Personnel issues-Action/decision,15,distance,0.8539864012972647
+2022,mature_factual,Personnel issues-Experience/knowledge,1,uncertificated pilot,2.2479760362561145
+2022,mature_factual,Personnel issues-Experience/knowledge,2,uncertificated,2.186738465216566
+2022,mature_factual,Personnel issues-Experience/knowledge,3,lost control,2.02291119616611
+2022,mature_factual,Personnel issues-Experience/knowledge,4,model,1.8642498544338126
+2022,mature_factual,Personnel issues-Experience/knowledge,5,noncertificated pilot,1.6884114221167044
+2022,mature_factual,Personnel issues-Experience/knowledge,6,noncertificated,1.6884114221167044
+2022,mature_factual,Personnel issues-Experience/knowledge,7,certificate,1.6686141780027812
+2022,mature_factual,Personnel issues-Experience/knowledge,8,control helicopter,1.5662285540323801
+2022,mature_factual,Personnel issues-Experience/knowledge,9,pilot certificate,1.4407799283866354
+2022,mature_factual,Personnel issues-Experience/knowledge,10,experience,1.397282243763454
+2022,mature_factual,Personnel issues-Experience/knowledge,11,calm,1.3904292287528057
+2022,mature_factual,Personnel issues-Experience/knowledge,12,crj,1.3850500995399537
+2022,mature_factual,Personnel issues-Experience/knowledge,13,times,1.311747332340977
+2022,mature_factual,Personnel issues-Experience/knowledge,14,airstrip,1.2996421882239422
+2022,mature_factual,Personnel issues-Experience/knowledge,15,purchased,1.2702690618932237
+2022,mature_factual,Personnel issues-Physical,1,blood,2.5906435283405904
+2022,mature_factual,Personnel issues-Physical,2,medical,1.6214418264213664
+2022,mature_factual,Personnel issues-Physical,3,ng,1.361581675581705
+2022,mature_factual,Personnel issues-Physical,4,impaired,1.3475839722175948
+2022,mature_factual,Personnel issues-Physical,5,oxygen,1.3134901096495784
+2022,mature_factual,Personnel issues-Physical,6,symptoms,1.2649384699526076
+2022,mature_factual,Personnel issues-Physical,7,brain,1.256215104793249
+2022,mature_factual,Personnel issues-Physical,8,alcohol,1.236812555425874
+2022,mature_factual,Personnel issues-Physical,9,day,1.2318929104368908
+2022,mature_factual,Personnel issues-Physical,10,high,1.2132450054735013
+2022,mature_factual,Personnel issues-Physical,11,faa,1.1818311052017818
+2022,mature_factual,Personnel issues-Physical,12,bus,1.170703096382427
+2022,mature_factual,Personnel issues-Physical,13,decision,1.1354900944366528
+2022,mature_factual,Personnel issues-Physical,14,ng ml,1.1180963100589945
+2022,mature_factual,Personnel issues-Physical,15,ferry pilot,1.1179486655035185
+2022,mature_factual,Personnel issues-Psychological,1,distracted,1.7908567609377142
+2022,mature_factual,Personnel issues-Psychological,2,attention,1.7166612913865182
+2022,mature_factual,Personnel issues-Psychological,3,helicopter,1.6158996740216274
+2022,mature_factual,Personnel issues-Psychological,4,disorientation,1.3596350649127642
+2022,mature_factual,Personnel issues-Psychological,5,spatial,1.348885566005821
+2022,mature_factual,Personnel issues-Psychological,6,spatial disorientation,1.3402439328799387
+2022,mature_factual,Personnel issues-Psychological,7,collision,1.3060903570394147
+2022,mature_factual,Personnel issues-Psychological,8,power lines,1.2728498339360668
+2022,mature_factual,Personnel issues-Psychological,9,lines,1.2723423027775347
+2022,mature_factual,Personnel issues-Psychological,10,airplanes,1.271739417086517
+2022,mature_factual,Personnel issues-Psychological,11,receiving instruction,1.2150047237527428
+2022,mature_factual,Personnel issues-Psychological,12,instructor,1.195940266841459
+2022,mature_factual,Personnel issues-Psychological,13,receiving,1.1585160667177439
+2022,mature_factual,Personnel issues-Psychological,14,visibility,1.1584003296308647
+2022,mature_factual,Personnel issues-Psychological,15,pilot receiving,1.156431211523822
+2022,mature_factual,Personnel issues-Task performance,1,wind,2.2149732267253603
+2022,mature_factual,Personnel issues-Task performance,2,stall,1.5389689951472123
+2022,mature_factual,Personnel issues-Task performance,3,airplane precluded,1.4257532747512656
+2022,mature_factual,Personnel issues-Task performance,4,equipped airplane,1.1412619957252161
+2022,mature_factual,Personnel issues-Task performance,5,left,1.1034338646057225
+2022,mature_factual,Personnel issues-Task performance,6,bounced,1.088715235714349
+2022,mature_factual,Personnel issues-Task performance,7,aerodynamic,1.0407314592824803
+2022,mature_factual,Personnel issues-Task performance,8,aerodynamic stall,1.0396530928114422
+2022,mature_factual,Personnel issues-Task performance,9,left runway,1.0363452768159438
+2022,mature_factual,Personnel issues-Task performance,10,control,1.014182110316272
+2022,mature_factual,Personnel issues-Task performance,11,tailwheel equipped,1.0091070284462138
+2022,mature_factual,Personnel issues-Task performance,12,balloon,1.006397670098549
+2022,mature_factual,Personnel issues-Task performance,13,crosswind,0.9929558065730723
+2022,mature_factual,Personnel issues-Task performance,14,stalled,0.9805558026073076
+2022,mature_factual,Personnel issues-Task performance,15,tanks,0.9535059895217793

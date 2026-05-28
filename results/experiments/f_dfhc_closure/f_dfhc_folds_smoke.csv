@@ -1,0 +1,2 @@
+﻿test_year,fit_years,calibration_year,fit_samples,calibration_samples,test_samples,labels,selected_positive_alpha,selected_negative_alpha,selected_late_positive_alpha
+2023,"2020,2021",2022,2382,1288,1230,16,0.0,0.09,0.0

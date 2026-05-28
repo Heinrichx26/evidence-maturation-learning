@@ -1,0 +1,2 @@
+﻿test_year,calibration_year,calibration_samples,test_samples,label_prevalence_l1,label_prevalence_max,score_mean_l1,score_ks_mean,calibration_empirical_all_risk,test_empirical_all_risk,risk_drift,coverage_drift,positive_coverage_drift
+2023,2022,1288,1230,0.009918383578245713,0.02983765086098067,0.0047995842472298555,0.03780860223198505,0.04479813664596273,0.049024390243902434,0.004226253597939704,0.0014172726354590992,-0.0036983539334230486

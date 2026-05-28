@@ -1,0 +1,529 @@
+﻿method,test_year,label,node_type,parent,support,close_positive_decisions,close_positive_precision,positive_coverage,defer_rate,is_late_emerging
+BR-TFIDF threshold,2023,Aircraft,parent,Aircraft,973,1178,0.8149405772495756,0.986639260020555,0.0,False
+BR-TFIDF threshold,2023,Personnel issues,parent,Personnel issues,931,1072,0.8125,0.9355531686358755,0.0,False
+BR-TFIDF threshold,2023,Environmental issues,parent,Environmental issues,437,755,0.5046357615894039,0.8718535469107551,0.0,False
+BR-TFIDF threshold,2023,Not determined,parent,Not determined,68,206,0.14077669902912626,0.4264705882352941,0.0,False
+BR-TFIDF threshold,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,15,0.1333333333333333,0.18181818181818182,0.0,False
+BR-TFIDF threshold,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,789,0.6489226869455007,0.8692699490662139,0.0,False
+BR-TFIDF threshold,2023,Aircraft-Aircraft power plant,child,Aircraft,175,262,0.5610687022900763,0.84,0.0,False
+BR-TFIDF threshold,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,33,0.21212121212121215,0.35,0.0,False
+BR-TFIDF threshold,2023,Aircraft-Aircraft structures,child,Aircraft,27,20,0.44999999999999996,0.3333333333333333,0.0,False
+BR-TFIDF threshold,2023,Aircraft-Aircraft systems,child,Aircraft,200,260,0.3846153846153846,0.5,0.0,True
+BR-TFIDF threshold,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,148,0.41891891891891897,0.5849056603773585,0.0,True
+BR-TFIDF threshold,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,456,0.4057017543859649,0.6928838951310862,0.0,True
+BR-TFIDF threshold,2023,Environmental issues-Operating environment,child,Environmental issues,11,20,0.0,0.0,0.0,False
+BR-TFIDF threshold,2023,Environmental issues-Physical environment,child,Environmental issues,188,560,0.24821428571428572,0.7393617021276596,0.0,True
+BR-TFIDF threshold,2023,Not determined-Not determined,child,Not determined,68,206,0.14077669902912626,0.4264705882352941,0.0,False
+BR-TFIDF threshold,2023,Personnel issues-Action/decision,child,Personnel issues,373,770,0.3831168831168831,0.7908847184986595,0.0,False
+BR-TFIDF threshold,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,70,0.15714285714285714,0.22916666666666666,0.0,False
+BR-TFIDF threshold,2023,Personnel issues-Physical,child,Personnel issues,22,42,0.19047619047619047,0.36363636363636365,0.0,False
+BR-TFIDF threshold,2023,Personnel issues-Psychological,child,Personnel issues,145,205,0.31219512195121957,0.4413793103448276,0.0,True
+BR-TFIDF threshold,2023,Personnel issues-Task performance,child,Personnel issues,684,1032,0.6114341085271318,0.922514619883041,0.0,False
+ES3D,2023,Aircraft,parent,Aircraft,973,905,0.8497237569060774,0.7903391572456321,0.08780487804878045,False
+ES3D,2023,Personnel issues,parent,Personnel issues,931,845,0.8745562130177514,0.7937701396348013,0.03658536585365857,False
+ES3D,2023,Environmental issues,parent,Environmental issues,437,568,0.5369718309859155,0.6979405034324943,0.08211382113821142,False
+ES3D,2023,Not determined,parent,Not determined,68,206,0.14077669902912626,0.4264705882352941,0.060975609756097615,False
+ES3D,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,0,nan,0.0,0.0008130081300813385,False
+ES3D,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,639,0.6713615023474178,0.7283531409168081,0.06016260162601628,False
+ES3D,2023,Aircraft-Aircraft power plant,child,Aircraft,175,262,0.5610687022900763,0.84,0.02195121951219514,False
+ES3D,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,27,0.18518518518518523,0.25,0.004878048780487809,False
+ES3D,2023,Aircraft-Aircraft structures,child,Aircraft,27,20,0.44999999999999996,0.3333333333333333,0.006504065040650375,False
+ES3D,2023,Aircraft-Aircraft systems,child,Aircraft,200,0,nan,0.0,0.9398373983739837,True
+ES3D,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,0,nan,0.0,0.6317073170731707,True
+ES3D,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,0,nan,0.0,0.8292682926829268,True
+ES3D,2023,Environmental issues-Operating environment,child,Environmental issues,11,1,0.0,0.0,0.0008130081300813385,False
+ES3D,2023,Environmental issues-Physical environment,child,Environmental issues,188,0,nan,0.0,0.9024390243902439,True
+ES3D,2023,Not determined-Not determined,child,Not determined,68,206,0.14077669902912626,0.4264705882352941,0.060975609756097615,False
+ES3D,2023,Personnel issues-Action/decision,child,Personnel issues,373,444,0.4414414414414415,0.5254691689008043,0.15121951219512197,False
+ES3D,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,46,0.23913043478260865,0.22916666666666666,0.019512195121951237,False
+ES3D,2023,Personnel issues-Physical,child,Personnel issues,22,42,0.19047619047619047,0.36363636363636365,0.013821138211382089,False
+ES3D,2023,Personnel issues-Psychological,child,Personnel issues,145,0,nan,0.0,0.765040650406504,True
+ES3D,2023,Personnel issues-Task performance,child,Personnel issues,684,662,0.6858006042296072,0.6637426900584795,0.12113821138211378,False
+Labelwise RCPS,2023,Aircraft,parent,Aircraft,973,0,nan,0.0,1.0,False
+Labelwise RCPS,2023,Personnel issues,parent,Personnel issues,931,0,nan,0.0,1.0,False
+Labelwise RCPS,2023,Environmental issues,parent,Environmental issues,437,0,nan,0.0,0.7455284552845529,False
+Labelwise RCPS,2023,Not determined,parent,Not determined,68,0,nan,0.0,0.0,False
+Labelwise RCPS,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,0,nan,0.0,0.0008130081300813385,False
+Labelwise RCPS,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,0,nan,0.0,0.7504065040650406,False
+Labelwise RCPS,2023,Aircraft-Aircraft power plant,child,Aircraft,175,0,nan,0.0,0.10650406504065035,False
+Labelwise RCPS,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,0,nan,0.0,0.0,False
+Labelwise RCPS,2023,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+Labelwise RCPS,2023,Aircraft-Aircraft systems,child,Aircraft,200,0,nan,0.0,0.31219512195121957,True
+Labelwise RCPS,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,0,nan,0.0,0.033333333333333326,True
+Labelwise RCPS,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,0,nan,0.0,0.4926829268292683,True
+Labelwise RCPS,2023,Environmental issues-Operating environment,child,Environmental issues,11,0,nan,0.0,0.0008130081300813385,False
+Labelwise RCPS,2023,Environmental issues-Physical environment,child,Environmental issues,188,0,nan,0.0,0.6276422764227643,True
+Labelwise RCPS,2023,Not determined-Not determined,child,Not determined,68,0,nan,0.0,0.0,False
+Labelwise RCPS,2023,Personnel issues-Action/decision,child,Personnel issues,373,0,nan,0.0,1.0,False
+Labelwise RCPS,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,0,nan,0.0,0.0024390243902439046,False
+Labelwise RCPS,2023,Personnel issues-Physical,child,Personnel issues,22,0,nan,0.0,0.0,False
+Labelwise RCPS,2023,Personnel issues-Psychological,child,Personnel issues,145,0,nan,0.0,0.23983739837398377,True
+Labelwise RCPS,2023,Personnel issues-Task performance,child,Personnel issues,684,0,nan,0.0,0.9886178861788618,False
+Instancewise RCPS,2023,Aircraft,parent,Aircraft,973,275,0.8763636363636363,0.24768756423432683,0.7764227642276422,False
+Instancewise RCPS,2023,Personnel issues,parent,Personnel issues,931,164,0.9207317073170732,0.16219119226638024,0.8666666666666667,False
+Instancewise RCPS,2023,Environmental issues,parent,Environmental issues,437,0,nan,0.0,0.6813008130081301,False
+Instancewise RCPS,2023,Not determined,parent,Not determined,68,0,nan,0.0,0.0,False
+Instancewise RCPS,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,0,nan,0.0,0.0008130081300813385,False
+Instancewise RCPS,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,0,nan,0.0,0.6634146341463414,False
+Instancewise RCPS,2023,Aircraft-Aircraft power plant,child,Aircraft,175,0,nan,0.0,0.033333333333333326,False
+Instancewise RCPS,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,0,nan,0.0,0.0,False
+Instancewise RCPS,2023,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+Instancewise RCPS,2023,Aircraft-Aircraft systems,child,Aircraft,200,0,nan,0.0,0.01788617886178867,True
+Instancewise RCPS,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,0,nan,0.0,0.0,True
+Instancewise RCPS,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,0,nan,0.0,0.28861788617886175,True
+Instancewise RCPS,2023,Environmental issues-Operating environment,child,Environmental issues,11,0,nan,0.0,0.0008130081300813385,False
+Instancewise RCPS,2023,Environmental issues-Physical environment,child,Environmental issues,188,0,nan,0.0,0.29512195121951224,True
+Instancewise RCPS,2023,Not determined-Not determined,child,Not determined,68,0,nan,0.0,0.0,False
+Instancewise RCPS,2023,Personnel issues-Action/decision,child,Personnel issues,373,0,nan,0.0,0.8390243902439024,False
+Instancewise RCPS,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,0,nan,0.0,0.0024390243902439046,False
+Instancewise RCPS,2023,Personnel issues-Physical,child,Personnel issues,22,0,nan,0.0,0.0,False
+Instancewise RCPS,2023,Personnel issues-Psychological,child,Personnel issues,145,0,nan,0.0,0.0,True
+Instancewise RCPS,2023,Personnel issues-Task performance,child,Personnel issues,684,0,nan,0.0,0.9878048780487805,False
+LTT without hierarchy,2023,Aircraft,parent,Aircraft,973,275,0.8763636363636363,0.24768756423432683,0.7764227642276422,False
+LTT without hierarchy,2023,Personnel issues,parent,Personnel issues,931,164,0.9207317073170732,0.16219119226638024,0.8666666666666667,False
+LTT without hierarchy,2023,Environmental issues,parent,Environmental issues,437,0,nan,0.0,0.6813008130081301,False
+LTT without hierarchy,2023,Not determined,parent,Not determined,68,0,nan,0.0,0.0,False
+LTT without hierarchy,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,0,nan,0.0,0.0008130081300813385,False
+LTT without hierarchy,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,0,nan,0.0,0.6634146341463414,False
+LTT without hierarchy,2023,Aircraft-Aircraft power plant,child,Aircraft,175,0,nan,0.0,0.033333333333333326,False
+LTT without hierarchy,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,0,nan,0.0,0.0,False
+LTT without hierarchy,2023,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+LTT without hierarchy,2023,Aircraft-Aircraft systems,child,Aircraft,200,0,nan,0.0,0.01788617886178867,True
+LTT without hierarchy,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,0,nan,0.0,0.0,True
+LTT without hierarchy,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,0,nan,0.0,0.28861788617886175,True
+LTT without hierarchy,2023,Environmental issues-Operating environment,child,Environmental issues,11,0,nan,0.0,0.0008130081300813385,False
+LTT without hierarchy,2023,Environmental issues-Physical environment,child,Environmental issues,188,0,nan,0.0,0.29512195121951224,True
+LTT without hierarchy,2023,Not determined-Not determined,child,Not determined,68,0,nan,0.0,0.0,False
+LTT without hierarchy,2023,Personnel issues-Action/decision,child,Personnel issues,373,0,nan,0.0,0.8390243902439024,False
+LTT without hierarchy,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,0,nan,0.0,0.0024390243902439046,False
+LTT without hierarchy,2023,Personnel issues-Physical,child,Personnel issues,22,0,nan,0.0,0.0,False
+LTT without hierarchy,2023,Personnel issues-Psychological,child,Personnel issues,145,0,nan,0.0,0.0,True
+LTT without hierarchy,2023,Personnel issues-Task performance,child,Personnel issues,684,0,nan,0.0,0.9878048780487805,False
+F-DFHC without utility,2023,Aircraft,parent,Aircraft,973,3,0.6666666666666667,0.0020554984583761563,0.9975609756097561,False
+F-DFHC without utility,2023,Personnel issues,parent,Personnel issues,931,164,0.9207317073170732,0.16219119226638024,0.8666666666666667,False
+F-DFHC without utility,2023,Environmental issues,parent,Environmental issues,437,0,nan,0.0,0.6813008130081301,False
+F-DFHC without utility,2023,Not determined,parent,Not determined,68,0,nan,0.0,0.0,False
+F-DFHC without utility,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,0,nan,0.0,0.0008130081300813385,False
+F-DFHC without utility,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,0,nan,0.0,0.6634146341463414,False
+F-DFHC without utility,2023,Aircraft-Aircraft power plant,child,Aircraft,175,0,nan,0.0,0.033333333333333326,False
+F-DFHC without utility,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,0,nan,0.0,0.0,False
+F-DFHC without utility,2023,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+F-DFHC without utility,2023,Aircraft-Aircraft systems,child,Aircraft,200,0,nan,0.0,0.01788617886178867,True
+F-DFHC without utility,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,0,nan,0.0,0.0,True
+F-DFHC without utility,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,0,nan,0.0,0.2878048780487805,True
+F-DFHC without utility,2023,Environmental issues-Operating environment,child,Environmental issues,11,0,nan,0.0,0.0008130081300813385,False
+F-DFHC without utility,2023,Environmental issues-Physical environment,child,Environmental issues,188,0,nan,0.0,0.29512195121951224,True
+F-DFHC without utility,2023,Not determined-Not determined,child,Not determined,68,0,nan,0.0,0.0,False
+F-DFHC without utility,2023,Personnel issues-Action/decision,child,Personnel issues,373,0,nan,0.0,0.8390243902439024,False
+F-DFHC without utility,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,0,nan,0.0,0.0024390243902439046,False
+F-DFHC without utility,2023,Personnel issues-Physical,child,Personnel issues,22,0,nan,0.0,0.0,False
+F-DFHC without utility,2023,Personnel issues-Psychological,child,Personnel issues,145,0,nan,0.0,0.0,True
+F-DFHC without utility,2023,Personnel issues-Task performance,child,Personnel issues,684,0,nan,0.0,0.9878048780487805,False
+F-DFHC-U full,2023,Aircraft,parent,Aircraft,973,212,0.8915094339622641,0.19424460431654678,0.8276422764227642,False
+F-DFHC-U full,2023,Personnel issues,parent,Personnel issues,931,164,0.9207317073170732,0.16219119226638024,0.8666666666666667,False
+F-DFHC-U full,2023,Environmental issues,parent,Environmental issues,437,0,nan,0.0,0.6813008130081301,False
+F-DFHC-U full,2023,Not determined,parent,Not determined,68,0,nan,0.0,0.0,False
+F-DFHC-U full,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,0,nan,0.0,0.0008130081300813385,False
+F-DFHC-U full,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,2,0.5,0.001697792869269949,0.6617886178861789,False
+F-DFHC-U full,2023,Aircraft-Aircraft power plant,child,Aircraft,175,29,0.9655172413793104,0.16,0.009756097560975618,False
+F-DFHC-U full,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,0,nan,0.0,0.0,False
+F-DFHC-U full,2023,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+F-DFHC-U full,2023,Aircraft-Aircraft systems,child,Aircraft,200,6,1.0,0.03,0.013008130081300862,True
+F-DFHC-U full,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,6,0.6666666666666667,0.03773584905660377,0.0,True
+F-DFHC-U full,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,0,nan,0.0,0.2878048780487805,True
+F-DFHC-U full,2023,Environmental issues-Operating environment,child,Environmental issues,11,0,nan,0.0,0.0008130081300813385,False
+F-DFHC-U full,2023,Environmental issues-Physical environment,child,Environmental issues,188,0,nan,0.0,0.29512195121951224,True
+F-DFHC-U full,2023,Not determined-Not determined,child,Not determined,68,0,nan,0.0,0.0,False
+F-DFHC-U full,2023,Personnel issues-Action/decision,child,Personnel issues,373,0,nan,0.0,0.8390243902439024,False
+F-DFHC-U full,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,0,nan,0.0,0.0024390243902439046,False
+F-DFHC-U full,2023,Personnel issues-Physical,child,Personnel issues,22,0,nan,0.0,0.0,False
+F-DFHC-U full,2023,Personnel issues-Psychological,child,Personnel issues,145,0,nan,0.0,0.0,True
+F-DFHC-U full,2023,Personnel issues-Task performance,child,Personnel issues,684,0,nan,0.0,0.9878048780487805,False
+F-DFHC-U w/o projection,2023,Aircraft,parent,Aircraft,973,212,0.8915094339622641,0.19424460431654678,0.8276422764227642,False
+F-DFHC-U w/o projection,2023,Personnel issues,parent,Personnel issues,931,164,0.9207317073170732,0.16219119226638024,0.8666666666666667,False
+F-DFHC-U w/o projection,2023,Environmental issues,parent,Environmental issues,437,0,nan,0.0,0.6813008130081301,False
+F-DFHC-U w/o projection,2023,Not determined,parent,Not determined,68,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft handling/service,child,Aircraft,11,0,nan,0.0,0.0008130081300813385,False
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,589,2,0.5,0.001697792869269949,0.6617886178861789,False
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft power plant,child,Aircraft,175,29,0.9655172413793104,0.16,0.009756097560975618,False
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,20,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft systems,child,Aircraft,200,6,1.0,0.03,0.013008130081300862,True
+F-DFHC-U w/o projection,2023,Aircraft-Fluids/misc hardware,child,Aircraft,106,6,0.6666666666666667,0.03773584905660377,0.0,True
+F-DFHC-U w/o projection,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,267,0,nan,0.0,0.28861788617886175,True
+F-DFHC-U w/o projection,2023,Environmental issues-Operating environment,child,Environmental issues,11,0,nan,0.0,0.0008130081300813385,False
+F-DFHC-U w/o projection,2023,Environmental issues-Physical environment,child,Environmental issues,188,0,nan,0.0,0.29512195121951224,True
+F-DFHC-U w/o projection,2023,Not determined-Not determined,child,Not determined,68,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2023,Personnel issues-Action/decision,child,Personnel issues,373,0,nan,0.0,0.8390243902439024,False
+F-DFHC-U w/o projection,2023,Personnel issues-Experience/knowledge,child,Personnel issues,48,0,nan,0.0,0.0024390243902439046,False
+F-DFHC-U w/o projection,2023,Personnel issues-Physical,child,Personnel issues,22,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2023,Personnel issues-Psychological,child,Personnel issues,145,0,nan,0.0,0.0,True
+F-DFHC-U w/o projection,2023,Personnel issues-Task performance,child,Personnel issues,684,0,nan,0.0,0.9878048780487805,False
+BR-TFIDF threshold,2024,Aircraft,parent,Aircraft,790,936,0.829059829059829,0.9822784810126582,0.0,False
+BR-TFIDF threshold,2024,Personnel issues,parent,Personnel issues,756,906,0.804635761589404,0.9642857142857143,0.0,False
+BR-TFIDF threshold,2024,Environmental issues,parent,Environmental issues,369,668,0.4760479041916168,0.8617886178861789,0.0,False
+BR-TFIDF threshold,2024,Organizational issues,parent,Organizational issues,7,82,0.03658536585365857,0.42857142857142855,0.0,False
+BR-TFIDF threshold,2024,Not determined,parent,Not determined,26,143,0.09790209790209792,0.5384615384615384,0.0,False
+BR-TFIDF threshold,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,13,0.0,0.0,0.0,False
+BR-TFIDF threshold,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,731,0.612859097127223,0.9256198347107438,0.0,False
+BR-TFIDF threshold,2024,Aircraft-Aircraft power plant,child,Aircraft,121,165,0.593939393939394,0.8099173553719008,0.0,False
+BR-TFIDF threshold,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,26,0.23076923076923073,0.46153846153846156,0.0,False
+BR-TFIDF threshold,2024,Aircraft-Aircraft structures,child,Aircraft,27,12,0.41666666666666663,0.18518518518518517,0.0,False
+BR-TFIDF threshold,2024,Aircraft-Aircraft systems,child,Aircraft,169,191,0.3717277486910995,0.42011834319526625,0.0,True
+BR-TFIDF threshold,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,153,0.2875816993464052,0.5569620253164557,0.0,True
+BR-TFIDF threshold,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,491,0.3727087576374746,0.7854077253218884,0.0,True
+BR-TFIDF threshold,2024,Environmental issues-Operating environment,child,Environmental issues,7,184,0.021739130434782594,0.5714285714285714,0.0,False
+BR-TFIDF threshold,2024,Environmental issues-Physical environment,child,Environmental issues,150,532,0.21240601503759393,0.7533333333333333,0.0,True
+BR-TFIDF threshold,2024,Not determined-Not determined,child,Not determined,26,143,0.09790209790209792,0.5384615384615384,0.0,False
+BR-TFIDF threshold,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,82,0.03658536585365857,0.42857142857142855,0.0,False
+BR-TFIDF threshold,2024,Personnel issues-Action/decision,child,Personnel issues,240,496,0.2963709677419355,0.6125,0.0,False
+BR-TFIDF threshold,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,34,0.05882352941176472,0.06451612903225806,0.0,False
+BR-TFIDF threshold,2024,Personnel issues-Physical,child,Personnel issues,11,21,0.19047619047619047,0.36363636363636365,0.0,False
+BR-TFIDF threshold,2024,Personnel issues-Psychological,child,Personnel issues,99,253,0.17786561264822132,0.45454545454545453,0.0,True
+BR-TFIDF threshold,2024,Personnel issues-Task performance,child,Personnel issues,571,828,0.6328502415458936,0.9176882661996497,0.0,False
+ES3D,2024,Aircraft,parent,Aircraft,790,738,0.8658536585365854,0.8088607594936709,0.0820668693009119,False
+ES3D,2024,Personnel issues,parent,Personnel issues,756,736,0.8519021739130435,0.8293650793650794,0.0314083080040527,False
+ES3D,2024,Environmental issues,parent,Environmental issues,369,501,0.5149700598802396,0.6991869918699187,0.08510638297872342,False
+ES3D,2024,Organizational issues,parent,Organizational issues,7,1,1.0,0.14285714285714285,0.0,False
+ES3D,2024,Not determined,parent,Not determined,26,109,0.11926605504587151,0.5,0.03444782168186422,False
+ES3D,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,1,0.0,0.0,0.0020263424518743856,False
+ES3D,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,605,0.6495867768595041,0.8119834710743802,0.05369807497467072,False
+ES3D,2024,Aircraft-Aircraft power plant,child,Aircraft,121,165,0.593939393939394,0.8099173553719008,0.010131712259371817,False
+ES3D,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,18,0.33333333333333337,0.46153846153846156,0.0010131712259371373,False
+ES3D,2024,Aircraft-Aircraft structures,child,Aircraft,27,12,0.41666666666666663,0.18518518518518517,0.00911854103343468,False
+ES3D,2024,Aircraft-Aircraft systems,child,Aircraft,169,0,nan,0.0,0.8652482269503546,True
+ES3D,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,5,1.0,0.06329113924050633,0.6352583586626139,True
+ES3D,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,0,nan,0.0,0.8216818642350557,True
+ES3D,2024,Environmental issues-Operating environment,child,Environmental issues,7,1,0.0,0.0,0.0020263424518743856,False
+ES3D,2024,Environmental issues-Physical environment,child,Environmental issues,150,0,nan,0.0,0.9078014184397163,True
+ES3D,2024,Not determined-Not determined,child,Not determined,26,109,0.11926605504587151,0.5,0.03444782168186422,False
+ES3D,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,1,1.0,0.14285714285714285,0.0,False
+ES3D,2024,Personnel issues-Action/decision,child,Personnel issues,240,363,0.3223140495867769,0.4875,0.13475177304964536,False
+ES3D,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,34,0.05882352941176472,0.06451612903225806,0.01317122593718334,False
+ES3D,2024,Personnel issues-Physical,child,Personnel issues,11,21,0.19047619047619047,0.36363636363636365,0.010131712259371817,False
+ES3D,2024,Personnel issues-Psychological,child,Personnel issues,99,0,nan,0.0,0.7608915906788247,True
+ES3D,2024,Personnel issues-Task performance,child,Personnel issues,571,581,0.6695352839931152,0.681260945709282,0.10233029381965553,False
+Labelwise RCPS,2024,Aircraft,parent,Aircraft,790,0,nan,0.0,1.0,False
+Labelwise RCPS,2024,Personnel issues,parent,Personnel issues,756,0,nan,0.0,1.0,False
+Labelwise RCPS,2024,Environmental issues,parent,Environmental issues,369,0,nan,0.0,0.7852077001013171,False
+Labelwise RCPS,2024,Organizational issues,parent,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+Labelwise RCPS,2024,Not determined,parent,Not determined,26,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,0,nan,0.0,0.8763931104356636,False
+Labelwise RCPS,2024,Aircraft-Aircraft power plant,child,Aircraft,121,0,nan,0.0,0.09321175278622085,False
+Labelwise RCPS,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Aircraft-Aircraft systems,child,Aircraft,169,0,nan,0.0,0.5977710233029382,True
+Labelwise RCPS,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,0,nan,0.0,0.014184397163120588,True
+Labelwise RCPS,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,0,nan,0.0,0.5572441742654508,True
+Labelwise RCPS,2024,Environmental issues-Operating environment,child,Environmental issues,7,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Environmental issues-Physical environment,child,Environmental issues,150,0,nan,0.0,0.60790273556231,True
+Labelwise RCPS,2024,Not determined-Not determined,child,Not determined,26,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+Labelwise RCPS,2024,Personnel issues-Action/decision,child,Personnel issues,240,0,nan,0.0,0.9888551165146909,False
+Labelwise RCPS,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Personnel issues-Physical,child,Personnel issues,11,0,nan,0.0,0.0,False
+Labelwise RCPS,2024,Personnel issues-Psychological,child,Personnel issues,99,0,nan,0.0,0.2563323201621074,True
+Labelwise RCPS,2024,Personnel issues-Task performance,child,Personnel issues,571,0,nan,0.0,0.9685916919959473,False
+Instancewise RCPS,2024,Aircraft,parent,Aircraft,790,154,0.922077922077922,0.17974683544303796,0.8439716312056738,False
+Instancewise RCPS,2024,Personnel issues,parent,Personnel issues,756,0,nan,0.0,1.0,False
+Instancewise RCPS,2024,Environmental issues,parent,Environmental issues,369,0,nan,0.0,0.7274569402228976,False
+Instancewise RCPS,2024,Organizational issues,parent,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+Instancewise RCPS,2024,Not determined,parent,Not determined,26,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,0,nan,0.0,0.7852077001013171,False
+Instancewise RCPS,2024,Aircraft-Aircraft power plant,child,Aircraft,121,29,0.9655172413793104,0.23140495867768596,0.02228976697061802,False
+Instancewise RCPS,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Aircraft-Aircraft systems,child,Aircraft,169,0,nan,0.0,0.09827760891590676,True
+Instancewise RCPS,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,0,nan,0.0,0.0,True
+Instancewise RCPS,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,0,nan,0.0,0.3444782168186423,True
+Instancewise RCPS,2024,Environmental issues-Operating environment,child,Environmental issues,7,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Environmental issues-Physical environment,child,Environmental issues,150,0,nan,0.0,0.23809523809523814,True
+Instancewise RCPS,2024,Not determined-Not determined,child,Not determined,26,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+Instancewise RCPS,2024,Personnel issues-Action/decision,child,Personnel issues,240,0,nan,0.0,0.8166160081053698,False
+Instancewise RCPS,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Personnel issues-Physical,child,Personnel issues,11,0,nan,0.0,0.0,False
+Instancewise RCPS,2024,Personnel issues-Psychological,child,Personnel issues,99,0,nan,0.0,0.0,True
+Instancewise RCPS,2024,Personnel issues-Task performance,child,Personnel issues,571,0,nan,0.0,0.9685916919959473,False
+LTT without hierarchy,2024,Aircraft,parent,Aircraft,790,154,0.922077922077922,0.17974683544303796,0.8439716312056738,False
+LTT without hierarchy,2024,Personnel issues,parent,Personnel issues,756,0,nan,0.0,1.0,False
+LTT without hierarchy,2024,Environmental issues,parent,Environmental issues,369,0,nan,0.0,0.7274569402228976,False
+LTT without hierarchy,2024,Organizational issues,parent,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+LTT without hierarchy,2024,Not determined,parent,Not determined,26,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,0,nan,0.0,0.7852077001013171,False
+LTT without hierarchy,2024,Aircraft-Aircraft power plant,child,Aircraft,121,29,0.9655172413793104,0.23140495867768596,0.02228976697061802,False
+LTT without hierarchy,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Aircraft-Aircraft systems,child,Aircraft,169,0,nan,0.0,0.09827760891590676,True
+LTT without hierarchy,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,0,nan,0.0,0.0,True
+LTT without hierarchy,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,0,nan,0.0,0.3444782168186423,True
+LTT without hierarchy,2024,Environmental issues-Operating environment,child,Environmental issues,7,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Environmental issues-Physical environment,child,Environmental issues,150,0,nan,0.0,0.23809523809523814,True
+LTT without hierarchy,2024,Not determined-Not determined,child,Not determined,26,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+LTT without hierarchy,2024,Personnel issues-Action/decision,child,Personnel issues,240,0,nan,0.0,0.8166160081053698,False
+LTT without hierarchy,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Personnel issues-Physical,child,Personnel issues,11,0,nan,0.0,0.0,False
+LTT without hierarchy,2024,Personnel issues-Psychological,child,Personnel issues,99,0,nan,0.0,0.0,True
+LTT without hierarchy,2024,Personnel issues-Task performance,child,Personnel issues,571,0,nan,0.0,0.9685916919959473,False
+F-DFHC without utility,2024,Aircraft,parent,Aircraft,790,27,1.0,0.03417721518987342,0.9726443768996961,False
+F-DFHC without utility,2024,Personnel issues,parent,Personnel issues,756,0,nan,0.0,1.0,False
+F-DFHC without utility,2024,Environmental issues,parent,Environmental issues,369,0,nan,0.0,0.7274569402228976,False
+F-DFHC without utility,2024,Organizational issues,parent,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+F-DFHC without utility,2024,Not determined,parent,Not determined,26,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,0,nan,0.0,0.7852077001013171,False
+F-DFHC without utility,2024,Aircraft-Aircraft power plant,child,Aircraft,121,0,nan,0.0,0.05167173252279633,False
+F-DFHC without utility,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Aircraft-Aircraft systems,child,Aircraft,169,0,nan,0.0,0.09827760891590676,True
+F-DFHC without utility,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,0,nan,0.0,0.0,True
+F-DFHC without utility,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,0,nan,0.0,0.3444782168186423,True
+F-DFHC without utility,2024,Environmental issues-Operating environment,child,Environmental issues,7,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Environmental issues-Physical environment,child,Environmental issues,150,0,nan,0.0,0.23606889564336375,True
+F-DFHC without utility,2024,Not determined-Not determined,child,Not determined,26,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+F-DFHC without utility,2024,Personnel issues-Action/decision,child,Personnel issues,240,0,nan,0.0,0.8166160081053698,False
+F-DFHC without utility,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Personnel issues-Physical,child,Personnel issues,11,0,nan,0.0,0.0,False
+F-DFHC without utility,2024,Personnel issues-Psychological,child,Personnel issues,99,0,nan,0.0,0.0,True
+F-DFHC without utility,2024,Personnel issues-Task performance,child,Personnel issues,571,0,nan,0.0,0.9685916919959473,False
+F-DFHC-U full,2024,Aircraft,parent,Aircraft,790,154,0.922077922077922,0.17974683544303796,0.8439716312056738,False
+F-DFHC-U full,2024,Personnel issues,parent,Personnel issues,756,0,nan,0.0,1.0,False
+F-DFHC-U full,2024,Environmental issues,parent,Environmental issues,369,0,nan,0.0,0.7274569402228976,False
+F-DFHC-U full,2024,Organizational issues,parent,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+F-DFHC-U full,2024,Not determined,parent,Not determined,26,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,5,0.8,0.008264462809917356,0.7801418439716312,False
+F-DFHC-U full,2024,Aircraft-Aircraft power plant,child,Aircraft,121,26,0.9615384615384616,0.2066115702479339,0.025329280648429542,False
+F-DFHC-U full,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Aircraft-Aircraft systems,child,Aircraft,169,7,1.0,0.04142011834319527,0.09118541033434646,True
+F-DFHC-U full,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,3,1.0,0.0379746835443038,0.0,True
+F-DFHC-U full,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,0,nan,0.0,0.3444782168186423,True
+F-DFHC-U full,2024,Environmental issues-Operating environment,child,Environmental issues,7,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Environmental issues-Physical environment,child,Environmental issues,150,0,nan,0.0,0.23606889564336375,True
+F-DFHC-U full,2024,Not determined-Not determined,child,Not determined,26,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+F-DFHC-U full,2024,Personnel issues-Action/decision,child,Personnel issues,240,0,nan,0.0,0.8166160081053698,False
+F-DFHC-U full,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Personnel issues-Physical,child,Personnel issues,11,0,nan,0.0,0.0,False
+F-DFHC-U full,2024,Personnel issues-Psychological,child,Personnel issues,99,0,nan,0.0,0.0,True
+F-DFHC-U full,2024,Personnel issues-Task performance,child,Personnel issues,571,0,nan,0.0,0.9685916919959473,False
+F-DFHC-U w/o projection,2024,Aircraft,parent,Aircraft,790,154,0.922077922077922,0.17974683544303796,0.8439716312056738,False
+F-DFHC-U w/o projection,2024,Personnel issues,parent,Personnel issues,756,0,nan,0.0,1.0,False
+F-DFHC-U w/o projection,2024,Environmental issues,parent,Environmental issues,369,0,nan,0.0,0.7274569402228976,False
+F-DFHC-U w/o projection,2024,Organizational issues,parent,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+F-DFHC-U w/o projection,2024,Not determined,parent,Not determined,26,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Aircraft-Aircraft handling/service,child,Aircraft,6,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Aircraft-Aircraft oper/perf/capability,child,Aircraft,484,5,0.8,0.008264462809917356,0.7801418439716312,False
+F-DFHC-U w/o projection,2024,Aircraft-Aircraft power plant,child,Aircraft,121,26,0.9615384615384616,0.2066115702479339,0.025329280648429542,False
+F-DFHC-U w/o projection,2024,Aircraft-Aircraft propeller/rotor,child,Aircraft,13,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Aircraft-Aircraft structures,child,Aircraft,27,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Aircraft-Aircraft systems,child,Aircraft,169,7,1.0,0.04142011834319527,0.09118541033434646,True
+F-DFHC-U w/o projection,2024,Aircraft-Fluids/misc hardware,child,Aircraft,79,3,1.0,0.0379746835443038,0.0,True
+F-DFHC-U w/o projection,2024,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,233,0,nan,0.0,0.3444782168186423,True
+F-DFHC-U w/o projection,2024,Environmental issues-Operating environment,child,Environmental issues,7,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Environmental issues-Physical environment,child,Environmental issues,150,0,nan,0.0,0.23809523809523814,True
+F-DFHC-U w/o projection,2024,Not determined-Not determined,child,Not determined,26,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Organizational issues-Support/oversight/monitoring,child,Organizational issues,7,0,nan,0.0,0.0010131712259371373,False
+F-DFHC-U w/o projection,2024,Personnel issues-Action/decision,child,Personnel issues,240,0,nan,0.0,0.8166160081053698,False
+F-DFHC-U w/o projection,2024,Personnel issues-Experience/knowledge,child,Personnel issues,31,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Personnel issues-Physical,child,Personnel issues,11,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2024,Personnel issues-Psychological,child,Personnel issues,99,0,nan,0.0,0.0,True
+F-DFHC-U w/o projection,2024,Personnel issues-Task performance,child,Personnel issues,571,0,nan,0.0,0.9685916919959473,False
+BR-TFIDF threshold,2025,Aircraft,parent,Aircraft,530,616,0.8376623376623377,0.9735849056603774,0.0,False
+BR-TFIDF threshold,2025,Personnel issues,parent,Personnel issues,552,646,0.8436532507739938,0.9873188405797102,0.0,False
+BR-TFIDF threshold,2025,Environmental issues,parent,Environmental issues,254,620,0.4032258064516129,0.984251968503937,0.0,False
+BR-TFIDF threshold,2025,Organizational issues,parent,Organizational issues,5,4,0.0,0.0,0.0,False
+BR-TFIDF threshold,2025,Not determined,parent,Not determined,14,9,0.0,0.0,0.0,False
+BR-TFIDF threshold,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,84,0.0,0.0,0.0,False
+BR-TFIDF threshold,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,571,0.626970227670753,0.9623655913978495,0.0,False
+BR-TFIDF threshold,2025,Aircraft-Aircraft power plant,child,Aircraft,19,19,0.368421052631579,0.3684210526315789,0.0,False
+BR-TFIDF threshold,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,1,1.0,0.14285714285714285,0.0,False
+BR-TFIDF threshold,2025,Aircraft-Aircraft structures,child,Aircraft,8,19,0.052631578947368474,0.125,0.0,False
+BR-TFIDF threshold,2025,Aircraft-Aircraft systems,child,Aircraft,107,129,0.3178294573643411,0.38317757009345793,0.0,True
+BR-TFIDF threshold,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,47,0.19148936170212771,0.1836734693877551,0.0,True
+BR-TFIDF threshold,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,334,0.344311377245509,0.7232704402515723,0.0,True
+BR-TFIDF threshold,2025,Environmental issues-Operating environment,child,Environmental issues,10,5,0.0,0.0,0.0,False
+BR-TFIDF threshold,2025,Environmental issues-Physical environment,child,Environmental issues,106,324,0.2098765432098766,0.6415094339622641,0.0,True
+BR-TFIDF threshold,2025,Not determined-Not determined,child,Not determined,14,9,0.0,0.0,0.0,False
+BR-TFIDF threshold,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+BR-TFIDF threshold,2025,Organizational issues-Management,child,Organizational issues,3,12,0.0,0.0,0.0,False
+BR-TFIDF threshold,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,8,0.0,0.0,0.0,False
+BR-TFIDF threshold,2025,Personnel issues-Action/decision,child,Personnel issues,197,467,0.3233404710920771,0.766497461928934,0.0,False
+BR-TFIDF threshold,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,352,0.03693181818181823,0.6842105263157895,0.0,False
+BR-TFIDF threshold,2025,Personnel issues-Physical,child,Personnel issues,8,15,0.1333333333333333,0.25,0.0,False
+BR-TFIDF threshold,2025,Personnel issues-Psychological,child,Personnel issues,97,227,0.19383259911894268,0.4536082474226804,0.0,True
+BR-TFIDF threshold,2025,Personnel issues-Task performance,child,Personnel issues,414,622,0.6495176848874598,0.9758454106280193,0.0,False
+ES3D,2025,Aircraft,parent,Aircraft,530,434,0.8548387096774194,0.7,0.09480122324159024,False
+ES3D,2025,Personnel issues,parent,Personnel issues,552,597,0.8592964824120604,0.9293478260869565,0.013761467889908285,False
+ES3D,2025,Environmental issues,parent,Environmental issues,254,445,0.4539325842696629,0.7952755905511811,0.10244648318042815,False
+ES3D,2025,Organizational issues,parent,Organizational issues,5,4,0.0,0.0,0.006116207951070374,False
+ES3D,2025,Not determined,parent,Not determined,14,9,0.0,0.0,0.012232415902140636,False
+ES3D,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,1,0.0,0.0,0.001529051987767538,False
+ES3D,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,505,0.6435643564356436,0.8736559139784946,0.059633027522935755,False
+ES3D,2025,Aircraft-Aircraft power plant,child,Aircraft,19,19,0.368421052631579,0.3684210526315789,0.003058103975535187,False
+ES3D,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,1,1.0,0.14285714285714285,0.0,False
+ES3D,2025,Aircraft-Aircraft structures,child,Aircraft,8,7,0.0,0.0,0.003058103975535187,False
+ES3D,2025,Aircraft-Aircraft systems,child,Aircraft,107,1,1.0,0.009345794392523364,0.7629969418960245,True
+ES3D,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,2,1.0,0.04081632653061224,0.5749235474006116,True
+ES3D,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,3,0.33333333333333337,0.006289308176100629,0.944954128440367,True
+ES3D,2025,Environmental issues-Operating environment,child,Environmental issues,10,5,0.0,0.0,0.004587155963302725,False
+ES3D,2025,Environmental issues-Physical environment,child,Environmental issues,106,0,nan,0.0,0.9541284403669725,True
+ES3D,2025,Not determined-Not determined,child,Not determined,14,9,0.0,0.0,0.012232415902140636,False
+ES3D,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+ES3D,2025,Organizational issues-Management,child,Organizational issues,3,1,0.0,0.0,0.003058103975535187,False
+ES3D,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,4,0.0,0.0,0.006116207951070374,False
+ES3D,2025,Personnel issues-Action/decision,child,Personnel issues,197,286,0.32167832167832167,0.467005076142132,0.1437308868501529,False
+ES3D,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,37,0.05405405405405406,0.10526315789473684,0.01834862385321101,False
+ES3D,2025,Personnel issues-Physical,child,Personnel issues,8,14,0.1428571428571429,0.25,0.001529051987767538,False
+ES3D,2025,Personnel issues-Psychological,child,Personnel issues,97,0,nan,0.0,0.882262996941896,True
+ES3D,2025,Personnel issues-Task performance,child,Personnel issues,414,485,0.6701030927835052,0.785024154589372,0.07798165137614677,False
+Labelwise RCPS,2025,Aircraft,parent,Aircraft,530,0,nan,0.0,0.9847094801223242,False
+Labelwise RCPS,2025,Personnel issues,parent,Personnel issues,552,0,nan,0.0,1.0,False
+Labelwise RCPS,2025,Environmental issues,parent,Environmental issues,254,0,nan,0.0,0.9571865443425076,False
+Labelwise RCPS,2025,Organizational issues,parent,Organizational issues,5,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Not determined,parent,Not determined,14,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,0,nan,0.0,1.0,False
+Labelwise RCPS,2025,Aircraft-Aircraft power plant,child,Aircraft,19,0,nan,0.0,0.00917431192660545,False
+Labelwise RCPS,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Aircraft-Aircraft structures,child,Aircraft,8,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Aircraft-Aircraft systems,child,Aircraft,107,0,nan,0.0,0.9510703363914373,True
+Labelwise RCPS,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,0,nan,0.0,0.003058103975535187,True
+Labelwise RCPS,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,0,nan,0.0,0.8975535168195719,True
+Labelwise RCPS,2025,Environmental issues-Operating environment,child,Environmental issues,10,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Environmental issues-Physical environment,child,Environmental issues,106,0,nan,0.0,0.8287461773700306,True
+Labelwise RCPS,2025,Not determined-Not determined,child,Not determined,14,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Organizational issues-Management,child,Organizational issues,3,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Personnel issues-Action/decision,child,Personnel issues,197,0,nan,0.0,0.9969418960244648,False
+Labelwise RCPS,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Personnel issues-Physical,child,Personnel issues,8,0,nan,0.0,0.0,False
+Labelwise RCPS,2025,Personnel issues-Psychological,child,Personnel issues,97,0,nan,0.0,0.34709480122324154,True
+Labelwise RCPS,2025,Personnel issues-Task performance,child,Personnel issues,414,0,nan,0.0,1.0,False
+Instancewise RCPS,2025,Aircraft,parent,Aircraft,530,105,0.9047619047619048,0.1792452830188679,0.8073394495412844,False
+Instancewise RCPS,2025,Personnel issues,parent,Personnel issues,552,0,nan,0.0,1.0,False
+Instancewise RCPS,2025,Environmental issues,parent,Environmental issues,254,0,nan,0.0,0.9067278287461774,False
+Instancewise RCPS,2025,Organizational issues,parent,Organizational issues,5,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Not determined,parent,Not determined,14,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,0,nan,0.0,0.8944954128440367,False
+Instancewise RCPS,2025,Aircraft-Aircraft power plant,child,Aircraft,19,6,0.6666666666666667,0.21052631578947367,0.0,False
+Instancewise RCPS,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Aircraft-Aircraft structures,child,Aircraft,8,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Aircraft-Aircraft systems,child,Aircraft,107,0,nan,0.0,0.06269113149847094,True
+Instancewise RCPS,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,0,nan,0.0,0.0,True
+Instancewise RCPS,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,0,nan,0.0,0.35474006116207946,True
+Instancewise RCPS,2025,Environmental issues-Operating environment,child,Environmental issues,10,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Environmental issues-Physical environment,child,Environmental issues,106,0,nan,0.0,0.1620795107033639,True
+Instancewise RCPS,2025,Not determined-Not determined,child,Not determined,14,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Organizational issues-Management,child,Organizational issues,3,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Personnel issues-Action/decision,child,Personnel issues,197,0,nan,0.0,0.8685015290519877,False
+Instancewise RCPS,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Personnel issues-Physical,child,Personnel issues,8,0,nan,0.0,0.0,False
+Instancewise RCPS,2025,Personnel issues-Psychological,child,Personnel issues,97,0,nan,0.0,0.0,True
+Instancewise RCPS,2025,Personnel issues-Task performance,child,Personnel issues,414,0,nan,0.0,0.9923547400611621,False
+LTT without hierarchy,2025,Aircraft,parent,Aircraft,530,105,0.9047619047619048,0.1792452830188679,0.8073394495412844,False
+LTT without hierarchy,2025,Personnel issues,parent,Personnel issues,552,0,nan,0.0,1.0,False
+LTT without hierarchy,2025,Environmental issues,parent,Environmental issues,254,0,nan,0.0,0.9067278287461774,False
+LTT without hierarchy,2025,Organizational issues,parent,Organizational issues,5,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Not determined,parent,Not determined,14,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,0,nan,0.0,0.8944954128440367,False
+LTT without hierarchy,2025,Aircraft-Aircraft power plant,child,Aircraft,19,6,0.6666666666666667,0.21052631578947367,0.0,False
+LTT without hierarchy,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Aircraft-Aircraft structures,child,Aircraft,8,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Aircraft-Aircraft systems,child,Aircraft,107,0,nan,0.0,0.06269113149847094,True
+LTT without hierarchy,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,0,nan,0.0,0.0,True
+LTT without hierarchy,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,0,nan,0.0,0.35474006116207946,True
+LTT without hierarchy,2025,Environmental issues-Operating environment,child,Environmental issues,10,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Environmental issues-Physical environment,child,Environmental issues,106,0,nan,0.0,0.1620795107033639,True
+LTT without hierarchy,2025,Not determined-Not determined,child,Not determined,14,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Organizational issues-Management,child,Organizational issues,3,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Personnel issues-Action/decision,child,Personnel issues,197,0,nan,0.0,0.8685015290519877,False
+LTT without hierarchy,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Personnel issues-Physical,child,Personnel issues,8,0,nan,0.0,0.0,False
+LTT without hierarchy,2025,Personnel issues-Psychological,child,Personnel issues,97,0,nan,0.0,0.0,True
+LTT without hierarchy,2025,Personnel issues-Task performance,child,Personnel issues,414,0,nan,0.0,0.9923547400611621,False
+F-DFHC without utility,2025,Aircraft,parent,Aircraft,530,4,1.0,0.007547169811320755,0.9617737003058104,False
+F-DFHC without utility,2025,Personnel issues,parent,Personnel issues,552,0,nan,0.0,1.0,False
+F-DFHC without utility,2025,Environmental issues,parent,Environmental issues,254,0,nan,0.0,0.9067278287461774,False
+F-DFHC without utility,2025,Organizational issues,parent,Organizational issues,5,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Not determined,parent,Not determined,14,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,0,nan,0.0,0.8929663608562691,False
+F-DFHC without utility,2025,Aircraft-Aircraft power plant,child,Aircraft,19,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Aircraft-Aircraft structures,child,Aircraft,8,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Aircraft-Aircraft systems,child,Aircraft,107,0,nan,0.0,0.06269113149847094,True
+F-DFHC without utility,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,0,nan,0.0,0.0,True
+F-DFHC without utility,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,0,nan,0.0,0.35474006116207946,True
+F-DFHC without utility,2025,Environmental issues-Operating environment,child,Environmental issues,10,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Environmental issues-Physical environment,child,Environmental issues,106,0,nan,0.0,0.16055045871559637,True
+F-DFHC without utility,2025,Not determined-Not determined,child,Not determined,14,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Organizational issues-Management,child,Organizational issues,3,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Personnel issues-Action/decision,child,Personnel issues,197,0,nan,0.0,0.8685015290519877,False
+F-DFHC without utility,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Personnel issues-Physical,child,Personnel issues,8,0,nan,0.0,0.0,False
+F-DFHC without utility,2025,Personnel issues-Psychological,child,Personnel issues,97,0,nan,0.0,0.0,True
+F-DFHC without utility,2025,Personnel issues-Task performance,child,Personnel issues,414,0,nan,0.0,0.9923547400611621,False
+F-DFHC-U full,2025,Aircraft,parent,Aircraft,530,105,0.9047619047619048,0.1792452830188679,0.8073394495412844,False
+F-DFHC-U full,2025,Personnel issues,parent,Personnel issues,552,0,nan,0.0,1.0,False
+F-DFHC-U full,2025,Environmental issues,parent,Environmental issues,254,0,nan,0.0,0.9067278287461774,False
+F-DFHC-U full,2025,Organizational issues,parent,Organizational issues,5,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Not determined,parent,Not determined,14,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,4,1.0,0.010752688172043012,0.8868501529051988,False
+F-DFHC-U full,2025,Aircraft-Aircraft power plant,child,Aircraft,19,3,0.6666666666666667,0.10526315789473684,0.0,False
+F-DFHC-U full,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Aircraft-Aircraft structures,child,Aircraft,8,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Aircraft-Aircraft systems,child,Aircraft,107,1,1.0,0.009345794392523364,0.061162079510703404,True
+F-DFHC-U full,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,1,1.0,0.02040816326530612,0.0,True
+F-DFHC-U full,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,0,nan,0.0,0.35474006116207946,True
+F-DFHC-U full,2025,Environmental issues-Operating environment,child,Environmental issues,10,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Environmental issues-Physical environment,child,Environmental issues,106,0,nan,0.0,0.16055045871559637,True
+F-DFHC-U full,2025,Not determined-Not determined,child,Not determined,14,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Organizational issues-Management,child,Organizational issues,3,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Personnel issues-Action/decision,child,Personnel issues,197,0,nan,0.0,0.8685015290519877,False
+F-DFHC-U full,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Personnel issues-Physical,child,Personnel issues,8,0,nan,0.0,0.0,False
+F-DFHC-U full,2025,Personnel issues-Psychological,child,Personnel issues,97,0,nan,0.0,0.0,True
+F-DFHC-U full,2025,Personnel issues-Task performance,child,Personnel issues,414,0,nan,0.0,0.9923547400611621,False
+F-DFHC-U w/o projection,2025,Aircraft,parent,Aircraft,530,105,0.9047619047619048,0.1792452830188679,0.8073394495412844,False
+F-DFHC-U w/o projection,2025,Personnel issues,parent,Personnel issues,552,0,nan,0.0,1.0,False
+F-DFHC-U w/o projection,2025,Environmental issues,parent,Environmental issues,254,0,nan,0.0,0.9067278287461774,False
+F-DFHC-U w/o projection,2025,Organizational issues,parent,Organizational issues,5,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Not determined,parent,Not determined,14,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Aircraft-Aircraft handling/service,child,Aircraft,2,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Aircraft-Aircraft oper/perf/capability,child,Aircraft,372,4,1.0,0.010752688172043012,0.8883792048929664,False
+F-DFHC-U w/o projection,2025,Aircraft-Aircraft power plant,child,Aircraft,19,3,0.6666666666666667,0.10526315789473684,0.0,False
+F-DFHC-U w/o projection,2025,Aircraft-Aircraft propeller/rotor,child,Aircraft,7,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Aircraft-Aircraft structures,child,Aircraft,8,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Aircraft-Aircraft systems,child,Aircraft,107,1,1.0,0.009345794392523364,0.061162079510703404,True
+F-DFHC-U w/o projection,2025,Aircraft-Fluids/misc hardware,child,Aircraft,49,1,1.0,0.02040816326530612,0.0,True
+F-DFHC-U w/o projection,2025,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,159,0,nan,0.0,0.35474006116207946,True
+F-DFHC-U w/o projection,2025,Environmental issues-Operating environment,child,Environmental issues,10,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Environmental issues-Physical environment,child,Environmental issues,106,0,nan,0.0,0.1620795107033639,True
+F-DFHC-U w/o projection,2025,Not determined-Not determined,child,Not determined,14,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Organizational issues-Development,child,Organizational issues,2,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Organizational issues-Management,child,Organizational issues,3,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Organizational issues-Support/oversight/monitoring,child,Organizational issues,4,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Personnel issues-Action/decision,child,Personnel issues,197,0,nan,0.0,0.8685015290519877,False
+F-DFHC-U w/o projection,2025,Personnel issues-Experience/knowledge,child,Personnel issues,19,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Personnel issues-Physical,child,Personnel issues,8,0,nan,0.0,0.0,False
+F-DFHC-U w/o projection,2025,Personnel issues-Psychological,child,Personnel issues,97,0,nan,0.0,0.0,True
+F-DFHC-U w/o projection,2025,Personnel issues-Task performance,child,Personnel issues,414,0,nan,0.0,0.9923547400611621,False

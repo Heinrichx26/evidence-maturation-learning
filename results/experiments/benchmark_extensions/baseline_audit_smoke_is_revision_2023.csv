@@ -1,0 +1,9 @@
+﻿method,baseline_group,source,implementation,adaptation,status
+BR-TFIDF,exact_standard,Binary relevance with TF-IDF and one-vs-rest logistic regression,scikit-learn primitives,stage-specific evidence text,main
+Classifier Chains,exact_standard,Classifier chains for multi-label classification,scikit-learn ClassifierChain,support-ordered chain using the same TF-IDF view,main
+ML-KNN,exact_standard,Multi-label k-nearest neighbor family,cosine KNN on truncated TF-IDF representation,dimensionality reduction for sparse text distance,main
+RAkEL,exact_standard,Random k-labelset ensemble,label-powerset logistic ensembles,random label subsets with validation thresholds,main
+Hierarchy-gated BR,hierarchical_standard,top-down hierarchy-consistent multi-label decision,parent score gate over BR label scores,parent induced from NTSB level-2 taxonomy,main
+Label-enhanced forest,recent_mechanism_proxy,label-enhancement and feature-label correlation direction,multi-output ExtraTrees over dense TF-IDF factors,"proxy, reported as mechanism baseline",main_with_audit
+VCLDL/HALB/DyLas/SIHTC adapted,proxy,recent journal mechanisms summarized through same-input proxy signals,reported in supplementary adaptation tables,reported as a supplementary mechanism audit,supplementary
+

@@ -1,0 +1,5 @@
+﻿test_year,stage,fit_samples,validation_samples,train_samples,test_samples,labels,stage_seconds
+2022,event_aircraft_core,1154,1228,2382,1288,16,14.053
+2022,event_aircraft_weather,1154,1228,2382,1288,16,12.648
+2022,preliminary,1154,1228,2382,1288,16,38.547
+2022,mature_factual,1154,1228,2382,1288,16,48.894

@@ -1,0 +1,91 @@
+﻿method,test_year,label,node_type,parent,is_late_emerging,close_positive_threshold,close_negative_threshold,aircraft_child_floor,child_margin
+Instancewise RCPS,2023,Aircraft,parent,Aircraft,False,0.8,0.1,0.0,0.0
+Instancewise RCPS,2023,Personnel issues,parent,Personnel issues,False,0.85,0.0,0.0,0.0
+Instancewise RCPS,2023,Environmental issues,parent,Environmental issues,False,1.1,0.4,0.0,0.0
+Instancewise RCPS,2023,Not determined,parent,Not determined,False,1.1,0.85,0.0,0.0
+Instancewise RCPS,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,False,1.1,0.35,0.0,0.0
+Instancewise RCPS,2023,Aircraft-Aircraft power plant,child,Aircraft,False,0.9,0.9,0.0,0.0
+Instancewise RCPS,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,False,1.1,0.98,0.0,0.0
+Instancewise RCPS,2023,Aircraft-Aircraft structures,child,Aircraft,False,1.1,0.95,0.0,0.0
+Instancewise RCPS,2023,Aircraft-Aircraft systems,child,Aircraft,True,1.1,0.8,0.0,0.0
+Instancewise RCPS,2023,Aircraft-Fluids/misc hardware,child,Aircraft,True,1.1,0.98,0.0,0.0
+Instancewise RCPS,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,True,1.1,0.55,0.0,0.0
+Instancewise RCPS,2023,Environmental issues-Physical environment,child,Environmental issues,True,1.1,0.5262803067436953,0.0,0.0
+Instancewise RCPS,2023,Not determined-Not determined,child,Not determined,False,1.1,0.85,0.0,0.0
+Instancewise RCPS,2023,Personnel issues-Action/decision,child,Personnel issues,False,1.1,0.3,0.0,0.0
+Instancewise RCPS,2023,Personnel issues-Experience/knowledge,child,Personnel issues,False,1.1,0.9,0.0,0.0
+Instancewise RCPS,2023,Personnel issues-Physical,child,Personnel issues,False,1.1,0.98,0.0,0.0
+Instancewise RCPS,2023,Personnel issues-Psychological,child,Personnel issues,True,1.1,0.9,0.0,0.0
+Instancewise RCPS,2023,Personnel issues-Task performance,child,Personnel issues,False,1.1,0.18,0.0,0.0
+LTT without hierarchy,2023,Aircraft,parent,Aircraft,False,0.75,0.1,0.0,0.0
+LTT without hierarchy,2023,Personnel issues,parent,Personnel issues,False,0.85,0.0,0.0,0.0
+LTT without hierarchy,2023,Environmental issues,parent,Environmental issues,False,1.1,0.35,0.0,0.0
+LTT without hierarchy,2023,Not determined,parent,Not determined,False,1.1,0.85,0.0,0.0
+LTT without hierarchy,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,False,1.1,0.3034025618675886,0.0,0.0
+LTT without hierarchy,2023,Aircraft-Aircraft power plant,child,Aircraft,False,0.9,0.85,0.0,0.0
+LTT without hierarchy,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,False,1.1,0.98,0.0,0.0
+LTT without hierarchy,2023,Aircraft-Aircraft structures,child,Aircraft,False,1.1,0.95,0.0,0.0
+LTT without hierarchy,2023,Aircraft-Aircraft systems,child,Aircraft,True,1.1,0.7,0.0,0.0
+LTT without hierarchy,2023,Aircraft-Fluids/misc hardware,child,Aircraft,True,1.1,0.98,0.0,0.0
+LTT without hierarchy,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,True,1.1,0.5034601240535523,0.0,0.0
+LTT without hierarchy,2023,Environmental issues-Physical environment,child,Environmental issues,True,1.1,0.4,0.0,0.0
+LTT without hierarchy,2023,Not determined-Not determined,child,Not determined,False,1.1,0.85,0.0,0.0
+LTT without hierarchy,2023,Personnel issues-Action/decision,child,Personnel issues,False,1.1,0.25,0.0,0.0
+LTT without hierarchy,2023,Personnel issues-Experience/knowledge,child,Personnel issues,False,1.1,0.9,0.0,0.0
+LTT without hierarchy,2023,Personnel issues-Physical,child,Personnel issues,False,1.1,0.98,0.0,0.0
+LTT without hierarchy,2023,Personnel issues-Psychological,child,Personnel issues,True,1.1,0.8,0.0,0.0
+LTT without hierarchy,2023,Personnel issues-Task performance,child,Personnel issues,False,1.1,0.18,0.0,0.0
+F-DFHC without utility,2023,Aircraft,parent,Aircraft,False,0.8,0.1,0.0,0.0
+F-DFHC without utility,2023,Personnel issues,parent,Personnel issues,False,0.85,0.0,0.0,0.0
+F-DFHC without utility,2023,Environmental issues,parent,Environmental issues,False,1.1,0.4,0.0,0.0
+F-DFHC without utility,2023,Not determined,parent,Not determined,False,1.1,0.85,0.0,0.0
+F-DFHC without utility,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,False,1.1,0.35,0.0,0.0
+F-DFHC without utility,2023,Aircraft-Aircraft power plant,child,Aircraft,False,1.1,0.9,0.0,0.0
+F-DFHC without utility,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,False,1.1,0.98,0.0,0.0
+F-DFHC without utility,2023,Aircraft-Aircraft structures,child,Aircraft,False,1.1,0.95,0.0,0.0
+F-DFHC without utility,2023,Aircraft-Aircraft systems,child,Aircraft,True,1.1,0.8,0.0,0.0
+F-DFHC without utility,2023,Aircraft-Fluids/misc hardware,child,Aircraft,True,1.1,0.98,0.0,0.0
+F-DFHC without utility,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,True,1.1,0.55,0.0,0.0
+F-DFHC without utility,2023,Environmental issues-Physical environment,child,Environmental issues,True,1.1,0.5262803067436953,0.0,0.0
+F-DFHC without utility,2023,Not determined-Not determined,child,Not determined,False,1.1,0.85,0.0,0.0
+F-DFHC without utility,2023,Personnel issues-Action/decision,child,Personnel issues,False,1.1,0.3,0.0,0.0
+F-DFHC without utility,2023,Personnel issues-Experience/knowledge,child,Personnel issues,False,1.1,0.9,0.0,0.0
+F-DFHC without utility,2023,Personnel issues-Physical,child,Personnel issues,False,1.1,0.98,0.0,0.0
+F-DFHC without utility,2023,Personnel issues-Psychological,child,Personnel issues,True,1.1,0.9,0.0,0.0
+F-DFHC without utility,2023,Personnel issues-Task performance,child,Personnel issues,False,1.1,0.18,0.0,0.0
+F-DFHC-U full,2023,Aircraft,parent,Aircraft,False,0.75,0.1,0.85,0.0
+F-DFHC-U full,2023,Personnel issues,parent,Personnel issues,False,0.85,0.0,0.85,0.0
+F-DFHC-U full,2023,Environmental issues,parent,Environmental issues,False,1.1,0.35,0.85,0.0
+F-DFHC-U full,2023,Not determined,parent,Not determined,False,1.1,0.85,0.85,0.0
+F-DFHC-U full,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,False,1.1,0.3034025618675886,0.85,0.0
+F-DFHC-U full,2023,Aircraft-Aircraft power plant,child,Aircraft,False,1.1,0.85,0.85,0.0
+F-DFHC-U full,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,False,1.1,0.98,0.85,0.0
+F-DFHC-U full,2023,Aircraft-Aircraft structures,child,Aircraft,False,1.1,0.95,0.85,0.0
+F-DFHC-U full,2023,Aircraft-Aircraft systems,child,Aircraft,True,1.1,0.7,0.85,0.0
+F-DFHC-U full,2023,Aircraft-Fluids/misc hardware,child,Aircraft,True,1.1,0.98,0.85,0.0
+F-DFHC-U full,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,True,1.1,0.5034601240535523,0.85,0.0
+F-DFHC-U full,2023,Environmental issues-Physical environment,child,Environmental issues,True,1.1,0.4,0.85,0.0
+F-DFHC-U full,2023,Not determined-Not determined,child,Not determined,False,1.1,0.85,0.85,0.0
+F-DFHC-U full,2023,Personnel issues-Action/decision,child,Personnel issues,False,1.1,0.25,0.85,0.0
+F-DFHC-U full,2023,Personnel issues-Experience/knowledge,child,Personnel issues,False,1.1,0.9,0.85,0.0
+F-DFHC-U full,2023,Personnel issues-Physical,child,Personnel issues,False,1.1,0.98,0.85,0.0
+F-DFHC-U full,2023,Personnel issues-Psychological,child,Personnel issues,True,1.1,0.8,0.85,0.0
+F-DFHC-U full,2023,Personnel issues-Task performance,child,Personnel issues,False,1.1,0.18,0.85,0.0
+F-DFHC-U w/o projection,2023,Aircraft,parent,Aircraft,False,0.75,0.1,0.85,0.0
+F-DFHC-U w/o projection,2023,Personnel issues,parent,Personnel issues,False,0.85,0.0,0.85,0.0
+F-DFHC-U w/o projection,2023,Environmental issues,parent,Environmental issues,False,1.1,0.35,0.85,0.0
+F-DFHC-U w/o projection,2023,Not determined,parent,Not determined,False,1.1,0.85,0.85,0.0
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft oper/perf/capability,child,Aircraft,False,1.1,0.3034025618675886,0.85,0.0
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft power plant,child,Aircraft,False,1.1,0.85,0.85,0.0
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft propeller/rotor,child,Aircraft,False,1.1,0.98,0.85,0.0
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft structures,child,Aircraft,False,1.1,0.95,0.85,0.0
+F-DFHC-U w/o projection,2023,Aircraft-Aircraft systems,child,Aircraft,True,1.1,0.7,0.85,0.0
+F-DFHC-U w/o projection,2023,Aircraft-Fluids/misc hardware,child,Aircraft,True,1.1,0.98,0.85,0.0
+F-DFHC-U w/o projection,2023,Environmental issues-Conditions/weather/phenomena,child,Environmental issues,True,1.1,0.5034601240535523,0.85,0.0
+F-DFHC-U w/o projection,2023,Environmental issues-Physical environment,child,Environmental issues,True,1.1,0.4,0.85,0.0
+F-DFHC-U w/o projection,2023,Not determined-Not determined,child,Not determined,False,1.1,0.85,0.85,0.0
+F-DFHC-U w/o projection,2023,Personnel issues-Action/decision,child,Personnel issues,False,1.1,0.25,0.85,0.0
+F-DFHC-U w/o projection,2023,Personnel issues-Experience/knowledge,child,Personnel issues,False,1.1,0.9,0.85,0.0
+F-DFHC-U w/o projection,2023,Personnel issues-Physical,child,Personnel issues,False,1.1,0.98,0.85,0.0
+F-DFHC-U w/o projection,2023,Personnel issues-Psychological,child,Personnel issues,True,1.1,0.8,0.85,0.0
+F-DFHC-U w/o projection,2023,Personnel issues-Task performance,child,Personnel issues,False,1.1,0.18,0.85,0.0

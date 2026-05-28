@@ -1,0 +1,4 @@
+﻿evidence_type,base_stage,added_stage,delta_micro_f1,delta_macro_f1,delta_samples_f1,uncertainty_reduction
+weather_structured,event_aircraft_core,event_aircraft_weather,-0.01418434727613771,-0.0021768089395038936,-0.016117432581626956,-0.006582527527878024
+preliminary_narrative,event_aircraft_weather,preliminary,0.1353240857451608,0.13642479609770075,0.1357892010305693,0.06536086374000216
+mature_factual_narrative,preliminary,mature_factual,0.11435884599149904,0.09700391916739054,0.1210991346472714,0.05000246146109322

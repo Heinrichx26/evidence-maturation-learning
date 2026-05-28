@@ -1,0 +1,2 @@
+﻿test_year,calibration_year,empirical_risk,certified_bound,bound_valid,close_positive_precision,positive_coverage,event_positive_coverage,overall_coverage
+2023,2022,0.04692161649037158,0.07206788350233644,True,0.9033333333333333,0.05104539461292146,0.1790073230268511,0.6696501220504475

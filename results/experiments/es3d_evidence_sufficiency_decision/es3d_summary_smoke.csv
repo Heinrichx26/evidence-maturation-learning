@@ -1,0 +1,2 @@
+﻿test_years,mean_closed_precision,mean_coverage,mean_late_emerging_share_in_deferred_positives,mean_late_positive_defer_rate,mean_cost_reduction,mean_standard_micro_f1,mean_standard_macro_f1,total_runtime_seconds
+1,0.8978082915236335,0.7238495723228365,0.7114914425427873,0.9538158881984182,0.43683933274802456,0.5529087261785356,0.369229290207613,9.56

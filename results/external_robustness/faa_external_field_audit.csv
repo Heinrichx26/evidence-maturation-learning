@@ -1,0 +1,3 @@
+﻿source,archive,inner_file,records,columns,year_min,year_max,event_date_coverage,location_coverage,aircraft_identity_coverage,aircraft_system_coverage,injury_damage_coverage,phase_operation_coverage,airport_surface_coverage,narrative_coverage,ntsb_stage_field_group_overlap,mean_common_group_coverage
+FAA ASIAS AIDS,a2015_19.zip,a2015_19.txt,12249,180,2015,2019,1.0,1.0,1.0,1.0,1.0,0.9991019675075516,0.8075761286635643,1.0,6,0.9998503279179253
+FAA ASIAS AIDS,a2020_26.zip,a2020_26.txt,13784,179,2020,2026,1.0,1.0,1.0,1.0,1.0,1.0,0.8056442251886244,1.0,6,1.0

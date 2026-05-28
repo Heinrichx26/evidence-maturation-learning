@@ -1,0 +1,5 @@
+﻿source,filename,inner_file,rows,year_min,year_max,columns,key_columns
+FAA AIDS,a2015_19.zip,a2015_19.txt,12249,2015,2019,180,c5; c6; c7; c8; c9
+FAA AIDS,a2020_26.zip,a2020_26.txt,13784,2020,2026,179,c5; c6; c7; c8; c9
+FAA AIDS,e2015_19.zip,e2015_19.txt,14655,,,2,c5
+FAA AIDS,e3030_2026.zip,e2020_26.txt,13783,,,2,
